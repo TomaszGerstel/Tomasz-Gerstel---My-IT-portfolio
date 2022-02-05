@@ -8,117 +8,66 @@ Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu prz
 
 ## Któtko o mnie
 
-Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku Java [`więcej`](#moje-projekty).
+Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku Java [`więcej`](#więcej-o-mnie).
 
 ## Technologie
 
-* Java
-* JavaScript
-* HTML, CSS
-* MySQL
+- Java;
+- JavaScript;
+- HTML, CSS;
+- MySQL
+- Frameworki, interfejsy i standardy:
+	- JakartaEE;
+	- Spring Framework;
+	- JDBC, JPA, Hibernate, CRUD;
+	- AngularJS;
+	- Jenkins
 
 ## Umiejętności
 
 
 * Znajomość języka Java na na poziomie średniozaawansowanym;
 * Znajomość HTML, CSS, JavaScript;
-* Znajomość obsługi baz danych i SQL
+* Znajomość obsługi baz danych i SQL;
+* Znajmość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins)
+
+## Umiejętności w praktyce
+
+* Pracując w odpowiednim środowisku programistycznym (jak IntelliJ, SpringToolSuite lub Android Studio), wybierając odpowiednie zależniści, potrafię stworzyć projekt w języku Java (aplikacje tradycyjne lub webowe, a także na systemy Android);
+* Potrafię utworzyć bazę danych, która będzie współpracowała z projektem: ustalić połączenie z bazą, wykorzystać technologie mapowania obiektowo-relacyjnego w komunikacji między logiką plikacji a bazą danych;
+* Mogę zadbać o warstwę widoku aplikacji, wykorzystując technologię JPA (JakartaServerPages) lub szablony (jak Thymeleaf), albo zastosować bardziej zaawansowane rozwiązanie korzystając z frameworku AngularJS (może to być niezależna aplikacja);
+* Wiem jak pisać testy do tworzonej aplikacji oraz potrafię zadbać o właściwą walidację danych przetwarzanych przez aplikację;
+* Potrafię zaimplementować proces autoryzacji w tworzonej aplikacji (także z wykorzystaniem bazy danych);
+* server, konfiguracja, domena;
+* narzędzia kontroli wersji i ciągła integracja
 
 * * *
 
-# Moje projekty
+# Moje Projekty
 
-## Aplikacja monitororwania bilansu energetycznego
+## Aplikacja monitorowania bilansu energetycznego
 
+Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jest dziennikiem żywieniowym/podejmowanych aktywności oraz przedstawia obliczenia osobistego bilansu energetycznego. Zastosowano tutaj dosyć proste rozwiązania w warstwie widoku.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+![MyBalanceAppImage](my_balance_app.jpg)
 
-#### Header 4
+#### Technologie
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* Aplikacja napisana w języku Java z wykorzystaniem frameworka Spring;
+* Korzysta z relacyjnej bazy danych…
+* szablon widoków
 
-##### Header 5
+#### Funkcjonalności
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+* logowanie
+* dziennik, baza
+* obliczenia bilansu
+* edycja
 
-###### Header 6
+#### Linki
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[MyBalanceAppLink](http://185.238.72.254:8080/mybalance/).
 
-### There's a horizontal rule below this.
+## Więcej o mnie
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Rocznik 1984. 
