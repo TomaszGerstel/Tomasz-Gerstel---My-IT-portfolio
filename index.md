@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+#
 
 # Podstawowe informacje
 
@@ -8,7 +9,7 @@ Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu prz
 
 ## Któtko o mnie
 
-Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku Java [`więcej`](#więcej-o-mnie).
+Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku Java [`więcej`](#wicej-o-mnie).
 
 ## Technologie
 
@@ -26,20 +27,26 @@ Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. W
 ## Umiejętności
 
 
-* Znajomość języka Java na na poziomie średniozaawansowanym;
+* Znajomość języka Java na poziomie średniozaawansowanym;
 * Znajomość HTML, CSS, JavaScript;
 * Znajomość obsługi baz danych i SQL;
 * Znajmość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins)
 
 ## Umiejętności w praktyce
 
-* Pracując w odpowiednim środowisku programistycznym (jak IntelliJ, SpringToolSuite lub Android Studio), wybierając odpowiednie zależniści, potrafię stworzyć projekt w języku Java (aplikacje tradycyjne lub webowe, a także na systemy Android);
-* Potrafię utworzyć bazę danych, która będzie współpracowała z projektem: ustalić połączenie z bazą, wykorzystać technologie mapowania obiektowo-relacyjnego w komunikacji między logiką plikacji a bazą danych;
-* Mogę zadbać o warstwę widoku aplikacji, wykorzystując technologię JPA (JakartaServerPages) lub szablony (jak Thymeleaf), albo zastosować bardziej zaawansowane rozwiązanie korzystając z frameworku AngularJS (może to być niezależna aplikacja);
-* Wiem jak pisać testy do tworzonej aplikacji oraz potrafię zadbać o właściwą walidację danych przetwarzanych przez aplikację;
-* Potrafię zaimplementować proces autoryzacji w tworzonej aplikacji (także z wykorzystaniem bazy danych);
-* server, konfiguracja, domena;
-* narzędzia kontroli wersji i ciągła integracja
+* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku Java (aplikacje tradycyjne lub webowe, a także na systemy Android);
+
+* Utworzenie bazy danych, która będzie współpracowała z projektem: ustalenie połączenia z bazą, wykorzystanie technologii mapowania obiektowo-relacyjnego w komunikacji między logiką aplikacji a bazą danych;
+
+* Utworzenie warstwy widoku aplikacji, z wykorzystaniem technologii JPA (JakartaServerPages) lub szablonów (jak Thymeleaf), albo zastosowaniem bardziej zaawansowanego rozwiązania korzystając z frameworku AngularJS (może to być niezależna aplikacja);
+
+* Ummiejętność pisania testów do tworzonej aplikacji oraz zadbania o właściwą walidację danych przetwarzanych przez aplikację (JUnit, Mockito);
+
+* Umiejętność implementacji procesu autoryzacji w tworzonej aplikacji (także z wykorzystaniem bazy danych);
+
+* Instalacja niezbędnego oprogramowania na serwerze oraz wdrożenie aplikacji na serwer pod systemem Debian (także przypisanie domeny); 
+
+* Korzystanie z narzędzi kontroli wersji jak GIT, z serwisu GitHub do współpracy z innymi, jak i do procesu ciągłej integracji oprogramowania (praca z narzędziem Jenkins);
 
 * * *
 
@@ -66,7 +73,11 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 
 #### Linki
 
-[MyBalanceAppLink](http://185.238.72.254:8080/mybalance/).
+* [MyBalanceAppLink](http://185.238.72.254:8080/mybalance/).
+
+## Baza Problemów Jakościowych
+
+## Kalkulator Realizacji Produkcji
 
 ## Więcej o mnie
 
