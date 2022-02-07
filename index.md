@@ -7,7 +7,7 @@ layout: default
 
 Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu przedstawienie kwalifikacji programistycznych autora. Realizowane jest to poprzez prezentację przykładowo utworzonych narzędzi/aplikacji.
 
-## Któtko o mnie
+## Krótko o mnie
 
 Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku Java [`więcej`](#wicej-o-mnie).
 
@@ -27,10 +27,10 @@ Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. W
 ## Umiejętności
 
 
-* Znajomość języka Java na poziomie średniozaawansowanym;
+* Znajomość języka Java na poziomie średnio zaawansowanym;
 * Znajomość HTML, CSS, JavaScript;
 * Znajomość obsługi baz danych i SQL;
-* Znajmość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins)
+* Znajomość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins)
 
 ## Umiejętności w praktyce
 
@@ -61,24 +61,49 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 #### Technologie
 
 * Aplikacja napisana w języku Java z wykorzystaniem frameworka Spring;
-* Korzysta z relacyjnej bazy danych…
-* szablon widoków
+* Korzysta z relacyjnej bazy danych MySQL;
+* W warstwie prezentacji zastosowano szablon widoków Thymeleaf
 
 #### Funkcjonalności
 
-* logowanie
-* dziennik, baza
-* obliczenia bilansu
-* edycja
+* Logowanie i rejestracja realizowane przy pomocy bazy danych;
+* Możliwość prowadzenia dziennika żywieniowego/aktywności – dodawania i usuwania wpisów;
+* Baza posiłków i aktywności, z której można dodawać pozycje do swojego dziennika;
+* Możliwość uzupełniania bazy o nowe posiłki i aktywności;
+* Obliczenia bilansu dla dowolnego zakresu i jego ocena na podstawie ustalonego zapotrzebowania użytkownika; wyliczenie i ocena BMI;
+* Możliwość wglądu i edycji danych użytkownika
 
 #### Linki
 
-* [MyBalanceAppLink](http://185.238.72.254:8080/mybalance/).
+* [Działająca Aplikacja MyBalance](http://185.238.72.254:8080/mybalance/).
 
 ## Baza Problemów Jakościowych
 
+Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur postępowania) występujących w wyspecjalizowanym zakładzie produkującym butelki z tworzywa sztucznego.
+
+![TroubleshootingAppImage](troubles_app.jpg)
+
+### Technologie
+
+* Aplikacja napisana w języku Java z wykorzystaniem frameworka Spring;
+* Korzysta z relacyjnej bazy danych MySQL;
+* Warstwa widoku opracowana z wykorzystaniem AngularJS
+
+### Funkcjonalności
+
+* Możliwość łatwego przeglądania i wyszukiwania dostępnych problemów jakościowych w bazie oraz wglądu w typowe przyczyny danego problemu oraz proponowane jego rozwiązania;
+* Zaimplementowano usługę rejestracji i logowania;
+* Dodano możliwość wprowadzania własnych przyczyn i rozwiązań danego problemu zalogowanemu użytkownikowi;
+
+#### Linki
+
+* [Aplikacja na serwerze]
+* [Kod projektu]
+
 ## Kalkulator Realizacji Produkcji
 
-## Więcej o mnie
+# Więcej o mnie
 
-Rocznik 1984. 
+![MyImage](ja.jpg)
+
+Rocznik 1984.
