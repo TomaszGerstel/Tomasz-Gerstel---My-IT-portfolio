@@ -67,6 +67,7 @@ html {
     font-size: 100%; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
     -ms-text-size-adjust: 100%; /* 2 */
+    padding: 5px;
 }
 
 /*
@@ -310,7 +311,9 @@ nav ol {
 
 img {
     border: 0; /* 1 */
-    -ms-interpolation-mode: bicubic; /* 2 */
+    -ms-interpolation-mode: bicubic; /* 2 */ 
+    display: block;
+    margin: auto;
 }
 
 /*
