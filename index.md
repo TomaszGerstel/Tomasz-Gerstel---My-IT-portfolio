@@ -9,7 +9,7 @@ Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu prz
 
 ## Krótko o mnie
 
-Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku Java [`więcej`](#wicej-o-mnie)
+Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 ## Technologie
 
@@ -27,14 +27,14 @@ Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. W
 ## Umiejętności
 
 
-* Znajomość języka Java na poziomie średnio zaawansowanym;
+* Znajomość języka Java na poziomie średniozaawansowanym;
 * Znajomość HTML, CSS, JavaScript;
 * Znajomość obsługi baz danych i SQL;
 * Znajomość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins)
 
 ## Umiejętności w praktyce
 
-* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku Java (aplikacje tradycyjne lub webowe, a także na systemy Android);
+* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java** (aplikacje tradycyjne lub webowe, a także na systemy Android);
 
 * Utworzenie bazy danych, która będzie współpracowała z projektem: ustalenie połączenia z bazą, wykorzystanie technologii mapowania obiektowo-relacyjnego w komunikacji między logiką aplikacji a bazą danych;
 
@@ -60,9 +60,9 @@ Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur 
 
 #### Technologie
 
-* Aplikacja napisana w języku Java z wykorzystaniem frameworka Spring;
-* Korzysta z relacyjnej bazy danych MySQL;
-* Warstwa widoku opracowana z wykorzystaniem AngularJS
+* Aplikacja napisana w języku **Java** z wykorzystaniem frameworka **Spring**;
+* Korzysta z relacyjnej bazy danych **MySQL**;
+* Warstwa widoku opracowana z wykorzystaniem **AngularJS**
 
 #### Funkcjonalności
 
@@ -74,6 +74,8 @@ Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur 
 
 * [Aplikacja na serwerze](http://quality.fabrykabutelek.pl/)
 * [Kod projektu](https://github.com/TomaszGerstel/troubleshooting.git)
+
+* * *
 
 ## Aplikacja monitorowania bilansu energetycznego
 
@@ -100,6 +102,8 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 
 * [Działająca Aplikacja MyBalance](http://185.238.72.254:8080/mybalance/).
 
+* * *
+
 ## Kalkulator Realizacji Produkcji
 
 Proste narzędzie obliczające przewidywany czas realizacji produkcji i inne wartości na podstawie wprowadzonych danych, jak czas cyklu maszyny, wielkość produkcji oraz waga produktu. Przydatne do codziennego nadzoru produkcji w zakładzie produkującym opakowania w procesie "wtrysko-rozdmuchu".
@@ -121,6 +125,8 @@ Proste narzędzie obliczające przewidywany czas realizacji produkcji i inne war
 * [Działające narzędzie](http://kalkulator.fabrykabutelek.pl/)
 * [Kod narzędzia](https://github.com/TomaszGerstel/kalkulator.git)
 
+* * *
+
 ## Kalkulator Realizacji Produkcji – Android
 
 Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji produkcji i inne wartości na podstawie wprowadzonych danych, jak czas cyklu maszyny, wielkość produkcji oraz waga produktu. Narzędzie jest przydatne do codziennego nadzoru produkcji w zakładzie produkującym opakowania w procesie "wtrysko-rozdmuchu".
@@ -129,7 +135,7 @@ Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji
 
 #### Technologie
 
-* Java z odpowiednimi klasami dla Androida ;
+* Java z odpowiednimi klasami dla Androida;
 * Interfejs użytkownika w odpowiednich znacznikach XML;
 
 #### Funkcjonalności
@@ -141,6 +147,8 @@ Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji
 
 * [Narzędzie do pobrania](http://185.238.72.254:8080/kalkulator_android/kalkulator_android_1.0.apk)
 * [Kod narzędzia]()
+
+* * *
 
 # Więcej o mnie
 
@@ -160,4 +168,10 @@ Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji
 
 * W ostatnim czasie postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które (na razie w fazie testowej) pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie obecnie jestem zatrudniony.
 
+[`wróć`](#podstawowe-informacje)
+
 ![MyImage](ja.jpg)
+
+### Kontakt
+
+* gerstel.tomasz@gmail.com

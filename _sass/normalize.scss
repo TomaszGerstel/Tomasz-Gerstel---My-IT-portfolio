@@ -67,7 +67,6 @@ html {
     font-size: 100%; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
     -ms-text-size-adjust: 100%; /* 2 */
-    padding: 5px;
 }
 
 /*
@@ -88,6 +87,7 @@ textarea {
 
 body {
     margin: 0;
+    padding: 5px;
 }
 
 
