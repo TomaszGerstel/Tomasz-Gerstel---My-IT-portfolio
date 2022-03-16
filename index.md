@@ -146,7 +146,7 @@ Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji
 #### Linki
 
 * [Narzędzie do pobrania](http://185.238.72.254:8080/kalkulator_android/kalkulator_android_1.0.apk)
-* [Kod narzędzia]()
+* [Kod narzędzia](https://github.com/TomaszGerstel/calc_for_android.git)
 
 * * *
 

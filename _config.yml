@@ -1,7 +1,8 @@
 title: Tomasz Gerstel 
 description: My IT Portfolio
-show_downloads: true
+# show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
 encoding: utf-8
 lang: pl-PL
+show_downloads: false
