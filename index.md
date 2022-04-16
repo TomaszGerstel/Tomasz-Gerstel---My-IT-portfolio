@@ -150,6 +150,31 @@ Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji
 
 * * *
 
+## Gra logiczna: Number puzzle
+
+Prosta gra logiczna, polegająca na przesuwaniu klocków w celu ułożenia ich w 
+odpowiedniej kolejności.
+
+![AndroidCalcAppImage](number_puzzle01.jpg)
+
+#### Technologie
+
+* Java;
+* Podstawowe biblioteki Javy do aplikacji okienkowych: Java AWT;
+
+#### Funkcjonalności
+
+* Klocki automatycznie się mieszają podczas startu gry;
+* Możliwość zminy ilości klocków (poziomu) oraz resetu stanu gry;
+* Aplikacja zlicza ilość wykonanych ruchów oraz czas gry.
+
+#### Linki
+
+* [Plik jar do pobrania](http://185.238.72.254:8080/number_puzzle/number_puzzle.exe)
+* [Kod narzędzia](https://github.com/TomaszGerstel/number_puzzle.git)
+
+* * *
+
 # Więcej o mnie
 
 * Rocznik 1984, zamieszkały w Zielonej Górze;
