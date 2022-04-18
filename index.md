@@ -170,7 +170,7 @@ odpowiedniej kolejności.
 
 #### Linki
 
-* [Plik jar do pobrania](http://185.238.72.254:8080/number_puzzle/number_puzzle.exe)
+* [Plik exe do pobrania](http://185.238.72.254:8080/number_puzzle/number_puzzle1.0.exe)
 * [Kod narzędzia](https://github.com/TomaszGerstel/number_puzzle.git)
 
 * * *
