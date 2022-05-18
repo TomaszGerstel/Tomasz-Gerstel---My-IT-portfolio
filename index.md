@@ -26,7 +26,6 @@ Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. W
 
 ## Umiejętności
 
-
 * Znajomość języka Java na poziomie średniozaawansowanym;
 * Znajomość HTML, CSS, JavaScript;
 * Znajomość obsługi baz danych i SQL;
@@ -72,14 +71,14 @@ Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur 
 
 #### Linki
 
-* [Aplikacja na serwerze](http://quality.fabrykabutelek.pl/)
+* [Aplikacja na serwerze](http://185.238.72.254/troubleshooting)
 * [Kod projektu](https://github.com/TomaszGerstel/troubleshooting.git)
 
 * * *
 
 ## Aplikacja monitorowania bilansu energetycznego
 
-Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jest dziennikiem żywieniowym/podejmowanych aktywności oraz przedstawia obliczenia osobistego bilansu energetycznego. Zastosowano tutaj dosyć proste rozwiązania w warstwie widoku.
+Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jest dziennikiem żywieniowym/podejmowanych aktywności oraz przedstawia obliczenia osobistego bilansu energetycznego. W warstwie widoku wykorzystano szablony.
 
 ![MyBalanceAppImage](my_balance_app.jpg)
 
@@ -100,7 +99,7 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 
 #### Linki
 
-* [Działająca Aplikacja MyBalance](http://185.238.72.254:8080/mybalance/).
+* [Działająca Aplikacja MyBalance](http://185.238.72.254/mybalance/).
 
 * * *
 
@@ -122,7 +121,7 @@ Proste narzędzie obliczające przewidywany czas realizacji produkcji i inne war
 
 #### Linki
 
-* [Działające narzędzie](http://kalkulator.fabrykabutelek.pl/)
+* [Działające narzędzie](http:185.238.72.254/kalkulator)
 * [Kod narzędzia](https://github.com/TomaszGerstel/kalkulator.git)
 
 * * *
@@ -145,7 +144,7 @@ Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji
 
 #### Linki
 
-* [Narzędzie do pobrania](http://185.238.72.254:8080/kalkulator_android/kalkulator_android_1.0.apk)
+* [Narzędzie do pobrania](http://185.238.72.254/kalkulator_android/kalkulator_android_1.0.apk)
 * [Kod narzędzia](https://github.com/TomaszGerstel/calc_for_android.git)
 
 * * *
@@ -170,7 +169,7 @@ odpowiedniej kolejności.
 
 #### Linki
 
-* [Plik exe do pobrania](http://185.238.72.254:8080/number_puzzle/number_puzzle1.0.exe)
+* [Plik exe do pobrania](http://185.238.72.254/number_puzzle/number_puzzle1.0.exe)
 * [Kod narzędzia](https://github.com/TomaszGerstel/number_puzzle.git)
 
 * * *
@@ -187,7 +186,7 @@ odpowiedniej kolejności.
 
 * Mimo, iż nie pracowałem w sektorze informatycznym, posiadam pewną wiedzę informatyczną (także programistyczną) zdobytą przed laty oraz od lat interesowałem się sterowaniem i kontrolą procesu produkcji w przemyśle (zainteresowanie automatyką, maszynami CNC, próby założenia działalności opartej na wytwarzaniu produktu na maszynach sterowanych numerycznie);
 
-* W ostatnich latach postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java , aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji, albo mieć możliwość "dorobienia" sobie;
+* W ostatnich latach postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java , aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
 
 * Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu;
 
