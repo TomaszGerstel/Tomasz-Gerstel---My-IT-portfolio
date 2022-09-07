@@ -9,11 +9,12 @@ Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu prz
 
 ## Krótko o mnie
 
-Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+Programista Java (Junior level) plus frontend, bez formalnego doświadczenia komercyjnego w kierunku programowania. Wciąż się uczę. Mam na koncie kilka projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierają moją i innych pracę w zakładzie na produkcji. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 ## Technologie
 
 - Java;
+- Python (podstawowy);
 - JavaScript;
 - HTML, CSS;
 - MySQL;
@@ -22,14 +23,16 @@ Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. W
 	- Spring Framework;
 	- JDBC, JPA, Hibernate, CRUD;
 	- AngularJS;
+	- MySQL;
 	- Jenkins
 
 ## Umiejętności
 
 * Znajomość języka Java na poziomie średniozaawansowanym;
 * Znajomość HTML, CSS, JavaScript;
+* Znajomość języka Python w stopniu podstawowym;
 * Znajomość obsługi baz danych i SQL;
-* Znajomość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins)
+* Podstawowa znajomość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins, Docker)
 
 ## Umiejętności w praktyce
 
@@ -46,6 +49,8 @@ Programista - amator, bez formalnego doświadczenia zawodowego w tym kierunku. W
 * Instalacja niezbędnego oprogramowania na serwerze oraz wdrożenie aplikacji na serwer pod systemem Debian (także przypisanie domeny); 
 
 * Korzystanie z narzędzi kontroli wersji jak GIT, z serwisu GitHub do współpracy z innymi, jak i do procesu ciągłej integracji oprogramowania (praca z narzędziem Jenkins);
+
+* Umiejętność stworzenia projektu webowego w języku Pyton np. w środowisku PyCharm; 
 
 * * *
 
