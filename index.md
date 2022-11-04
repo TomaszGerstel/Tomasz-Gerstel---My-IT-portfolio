@@ -81,6 +81,30 @@ Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur 
 
 * * *
 
+## Utility Recorder
+
+Okienkowe narzędzie pomocne w monitorowaniu zużycia mediów, jak np. woda lub prąd (może służyć też do ewidencji innych rzeczy). Zapisuje dane w pliku, wczytuje je do tabeli i oblicza zużycie między rekordami, całkowite, a także średnie. Dane przedstawia na prostym wykresie.
+
+![UtilityRecorderToolImage](utility_recorder.jpg)
+
+#### Technologie
+
+* Aplikacja napisana w języku **Java**;
+* Wykorzystano standardowe biblioteki do aplikacji okienkowych, jak **Swing**
+
+#### Funkcjonalności
+
+* Tworzenie nowego rekordu, dodawanie wpisów do tabeli, edycja danych;
+* Wyliczenia zużycia, średniej i podgląd danych na wykresie;
+* Trwały zapis danych w pliku;
+* Możliwość edycji danych z poziomu pliku
+
+#### Linki
+
+* [Kod projektu](https://github.com/TomaszGerstel/utility-recorder.git)
+
+* * *
+
 ## Aplikacja monitorowania bilansu energetycznego
 
 Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jest dziennikiem żywieniowym/podejmowanych aktywności oraz przedstawia obliczenia osobistego bilansu energetycznego. W warstwie widoku wykorzystano szablony.
