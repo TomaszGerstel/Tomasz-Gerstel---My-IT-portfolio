@@ -102,6 +102,7 @@ Okienkowe narzędzie pomocne w monitorowaniu zużycia mediów, jak np. woda lub 
 #### Linki
 
 * [Kod projektu](https://github.com/TomaszGerstel/utility-recorder.git)
+* [Narzędzie do pobrania (jar)](http://185.238.72.254/utility_rec_jar/utility_rec_0.1.jar)
 
 * * *
 
