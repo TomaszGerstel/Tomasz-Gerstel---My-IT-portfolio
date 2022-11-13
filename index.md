@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Tomasz Gerstel
 
 # Podstawowe informacje
 
