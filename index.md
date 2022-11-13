@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Podstawowe informacje
+## Podstawowe informacje
 
 Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu przedstawienie kwalifikacji programistycznych autora. Realizowane jest to poprzez prezentację przykładowo utworzonych narzędzi/aplikacji.
 
