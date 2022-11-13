@@ -1,14 +1,15 @@
 ---
 layout: default
+permalink: /en
 ---
 
-# Informacje
+# Information
 
-Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu przedstawienie kwalifikacji programistycznych autora. Realizowane jest to poprzez prezentację przykładowo utworzonych narzędzi/aplikacji.
+The presented website is something like a personal portfolio. It aims to present the author's programming qualifications. This is done by presenting examples of created tools/applications.
 
-## Krótko o mnie
+## Briefly about me
 
-Programista Java (Junior level) plus frontend, bez formalnego doświadczenia komercyjnego w kierunku programowania. Wciąż się uczę. Mam na koncie kilka projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierają moją i innych pracę w zakładzie na produkcji. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+Java programmer (Junior level) plus frontend, without formal commercial experience in programming. I'm still learning. I have several projects of utility tools (also implemented on servers) that, for example, support my and others' work in the production plant. Technical and IT Education (M.Sc. Eng.), Postgraduate studies in Programming in **Java** [`more`](#wicej-o-mnie)
 
 ## Technologie
 
