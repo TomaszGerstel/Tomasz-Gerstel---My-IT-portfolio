@@ -5,20 +5,20 @@ permalink: /en
 
 # Information
 
-The presented website is something like a personal portfolio. It aims to present the author's programming qualifications. This is done by presenting examples of created tools/applications.
+The presented website is something in the shape of a personal portfolio. It aims to present my programming qualifications. This is done by presenting examples of created tools/applications.
 
 ## Briefly about me
 
-Java programmer (Junior level) plus frontend, without formal commercial experience in programming. I'm still learning. I have several projects of utility tools (also implemented on servers) that, for example, support my and others' work in the production plant. Technical and IT Education (M.Sc. Eng.), Postgraduate studies in Programming in **Java** [`more`](#wicej-o-mnie)
+Java programmer (Junior level) plus frontend, without formal commercial experience in programming. I have several projects of utility tools (also implemented on servers) that, for example, support my and others' work in the production plant. "Technical and IT" studies (master), Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
 
-## Technologie
+## Technologies
 
 - Java;
-- Python (podstawowy);
+- Python (basic);
 - JavaScript;
 - HTML, CSS;
 - MySQL;
-- Frameworki, interfejsy i standardy:
+- Frameworks, interfaces and standards:
 	- JakartaEE;
 	- Spring Framework;
 	- JDBC, JPA, Hibernate, CRUD;
@@ -26,206 +26,204 @@ Java programmer (Junior level) plus frontend, without formal commercial experien
 	- MySQL;
 	- Jenkins
 
-## Umiejętności
+## Skills
 
-* Znajomość języka Java na poziomie średniozaawansowanym;
-* Znajomość HTML, CSS, JavaScript;
-* Znajomość języka Python w stopniu podstawowym;
-* Znajomość obsługi baz danych i SQL;
-* Podstawowa znajomość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins, Docker)
+* Intermediate level of Java language;;
+* Ability to work with JavaScript, HTML and CSS;
+* Basic level of Python;
+* Knowledge of databases and SQL;
+* Basic knowledge of version control and continuous integration and delivery tools (CI/CD) (GIT, Jenkins, Docker)
 
-## Umiejętności w praktyce
+## Practical skills
 
-* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java** (aplikacje tradycyjne lub webowe, a także na systemy Android);
+* Working in the appropriate development environment (such as IntelliJ, Spring Tool Suite or Android Studio), choosing the right dependencies and the ability to create a project in **Java** (traditional or web applications, also for Android systems);
 
-* Utworzenie bazy danych, która będzie współpracowała z projektem: ustalenie połączenia z bazą, wykorzystanie technologii mapowania obiektowo-relacyjnego w komunikacji między logiką aplikacji a bazą danych;
+* Creating a database that will cooperate with the project: establishing a connection with the database, using object-relational mapping technology in communication between the application logic and the database;
 
-* Utworzenie warstwy widoku aplikacji, z wykorzystaniem technologii JPA (JakartaServerPages) lub szablonów (jak Thymeleaf), albo zastosowaniem bardziej zaawansowanego rozwiązania korzystając z frameworku AngularJS (może to być niezależna aplikacja);
+* Creating an application view layer, using JPA technology (JakartaServerPages) or templates (like Thymeleaf). Also working with a more advanced solution using the AngularJS framework (it can be a separate application);
 
-* Umiejętność pisania testów do tworzonej aplikacji oraz zadbania o właściwą walidację danych przetwarzanych przez aplikację (JUnit, Mockito);
+* Ability to write tests for the created application and ensure proper validation of data processed by the application (JUnit, Mockito);
 
-* Umiejętność implementacji procesu autoryzacji w tworzonej aplikacji (także z wykorzystaniem bazy danych);
+* Ability to implement the authorization process in the created application (also using a database);
 
-* Instalacja niezbędnego oprogramowania na serwerze oraz wdrożenie aplikacji na serwer pod systemem Debian (także przypisanie domeny); 
+* Installation of the necessary software on the server and deployment of the application to the server under the Debian system (including domain assignment);
 
-* Korzystanie z narzędzi kontroli wersji jak GIT, z serwisu GitHub do współpracy z innymi, jak i do procesu ciągłej integracji oprogramowania (praca z narzędziem Jenkins);
+* Using version control tools such as GIT (GitHub) for collaboration with others and for continuous software delivery (Jenkins);
 
-* Umiejętność stworzenia projektu webowego w języku Pyton np. w środowisku PyCharm; 
+* Ability to create a web project in Python, e.g. in the PyCharm environment;
 
 * * *
 
-# Moje Projekty
+# My Projects
 
-## Baza Problemów Jakościowych
+## Quality Troubles Database
 
-Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur postępowania) występujących w wyspecjalizowanym zakładzie produkującym butelki z tworzywa sztucznego.
+An application supporting a database of quality problems (typical defects and procedures for improvement) occurring in a specialized plant producing plastic bottles.
 
 ![TroublesAppImage](troubles_app.jpg)
 
-#### Technologie
+#### Technologies
 
-* Aplikacja napisana w języku **Java** z wykorzystaniem frameworka **Spring**;
-* Korzysta z relacyjnej bazy danych **MySQL**;
-* Warstwa widoku opracowana z wykorzystaniem **AngularJS**
+* Application written in **Java** using the **Spring** framework;
+* Uses **MySQL** relational database;
+* View layer developed with **AngularJS**
 
-#### Funkcjonalności
+#### Funkcionalities
 
-* Możliwość łatwego przeglądania i wyszukiwania dostępnych problemów jakościowych w bazie oraz wglądu w typowe przyczyny danego problemu oraz proponowane jego rozwiązania;
-* Zaimplementowano usługę rejestracji i logowania;
-* Dodano możliwość wprowadzania własnych przyczyn i rozwiązań danego problemu zalogowanemu użytkownikowi;
+* The ability to easily browse and search for available quality problems in the database and view the typical causes of a given problem and its proposed solutions;
+* Registration and login service implemented;
+* The ability to enter your own causes and solutions to a given problem to the logged-in user;
 
-#### Linki
+#### Lins
 
-* [Aplikacja na serwerze](http://185.238.72.254/troubleshooting)
-* [Kod projektu](https://github.com/TomaszGerstel/troubleshooting.git)
+* [App on server](http://185.238.72.254/troubleshooting)
+* [Project code](https://github.com/TomaszGerstel/troubleshooting.git)
 
 * * *
 
 ## Utility Recorder
 
-Okienkowe narzędzie pomocne w monitorowaniu zużycia mediów, jak np. woda lub prąd (może służyć też do ewidencji innych rzeczy). Zapisuje dane w pliku, wczytuje je do tabeli i oblicza zużycie między rekordami, całkowite, a także średnie. Dane przedstawia na prostym wykresie.
+A desktop tool helpful in monitoring the consumption of utilities, such as water or electricity (it can also be used to record other things). It saves the data to a file, reads it into a table and calculates consumption between records, totals and averages. The data is presented in a simple graph.
 
 ![UtilityRecorderToolImage](utility_recorder.jpg)
 
-#### Technologie
+#### Technologies
 
-* Aplikacja napisana w języku **Java**;
-* Wykorzystano standardowe biblioteki do aplikacji okienkowych, jak **Swing**
+* Application written in **Java**;
+* Standard libraries for window applications like **Swing** were used
 
-#### Funkcjonalności
+#### Functionalities
 
-* Tworzenie nowego rekordu, dodawanie wpisów do tabeli, edycja danych;
-* Wyliczenia zużycia, średniej i podgląd danych na wykresie;
-* Trwały zapis danych w pliku;
-* Możliwość edycji danych z poziomu pliku
+* Creating a new record, adding table entries, editing data;
+* Calculation of consumption, average and preview of data on the diagram;
+* Permanent recording of data in a file;
+* Ability to edit data from the file level
 
 #### Linki
 
-* [Kod projektu](https://github.com/TomaszGerstel/utility-recorder.git)
-* [Narzędzie do pobrania (jar)](http://185.238.72.254/utility_rec_jar/utility_rec_0.1.jar)
+* [Project code](https://github.com/TomaszGerstel/utility-recorder.git)
+* [jar to download](http://185.238.72.254/utility_rec_jar/utility_rec_0.1.jar)
 
 * * *
 
-## Aplikacja monitorowania bilansu energetycznego
+## Energy balance monitoring application
 
-Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jest dziennikiem żywieniowym/podejmowanych aktywności oraz przedstawia obliczenia osobistego bilansu energetycznego. W warstwie widoku wykorzystano szablony.
+My final project in Java Application Development. The app is a food/activity diary and provides personal energy balance calculations. The view layer uses templates.
 
 ![MyBalanceAppImage](my_balance_app.jpg)
 
-#### Technologie
+#### Technologies
 
-* Aplikacja napisana w języku Java z wykorzystaniem frameworka Spring;
-* Korzysta z relacyjnej bazy danych MySQL;
-* W warstwie prezentacji zastosowano szablon widoków Thymeleaf
+* Application written in Java using the Spring framework;
+* Uses MySQL relational database;
+* In the view layer was used The Thymeleaf template
 
-#### Funkcjonalności
+#### Functionalities
 
-* Logowanie i rejestracja realizowane przy pomocy bazy danych;
-* Możliwość prowadzenia dziennika żywieniowego/aktywności – dodawania i usuwania wpisów;
-* Baza posiłków i aktywności, z której można dodawać pozycje do swojego dziennika;
-* Możliwość uzupełniania bazy o nowe posiłki i aktywności;
-* Obliczenia bilansu dla dowolnego zakresu i jego ocena na podstawie ustalonego zapotrzebowania użytkownika; wyliczenie i ocena BMI;
-* Możliwość wglądu i edycji danych użytkownika
+* Login and registration carried out using a database;
+* Possibility of keeping a food/activity diary - adding and deleting entries;
+* Database of meals and activities from which you can add items to your diary;
+* Ability to expand the base with new meals and activities;
+* Calculation of the balance for any range and its evaluation based on the user's needs;
+* Calculation and evaluation of BMI (Body Mass Index);
+* Ability to view and edit user data
 
-#### Linki
+#### Links
 
-* [Działająca Aplikacja MyBalance](http://185.238.72.254/mybalance/).
+* [Working MyBalance App](http://185.238.72.254/mybalance/).
 
 * * *
 
-## Kalkulator Realizacji Produkcji
+## Production Execution Calculator
 
-Proste narzędzie obliczające przewidywany czas realizacji produkcji i inne wartości na podstawie wprowadzonych danych, jak czas cyklu maszyny, wielkość produkcji oraz waga produktu. Przydatne do codziennego nadzoru produkcji w zakładzie produkującym opakowania w procesie "wtrysko-rozdmuchu".
+A simple tool that calculates the estimated production lead time and other values based on inputs such as machine cycle time, production volume and product weight. Useful for daily production supervision in a packaging production plant in the "injection-blowing" process.
 
 ![CalcAppImage](calc.jpg)
 
-#### Technologie
+#### Technologies
 
-* HTML, CSS;
-* Obliczenia w JavaScript;
+* HTML, CSS, JvaScript;
+* Calculations in JavaScript;
 
-#### Funkcjonalności
+#### Functionalities
 
-* Możliwość szybkiego obliczenia realizacji produkcji i uzyskania konkretnej godziny realizacji na stronie internetowej bez konieczności wykonywania skomplikowanych wyliczeń (jak chociażby "ręcznego" przeliczania sekund na godziny i minuty oraz dodawania do godziny obecnej);
-* Uzyskanie dodatkowych informacji, jak: wydajność i waga potrzebnego surowca do danej produkcji.
+* The ability to quickly calculate the production and obtain a real time of execution on the website without the need to perform complex calculations (such as "manually" converting seconds to hours and minutes and adding to the current time);
+* Obtaining additional information, such as: efficiency and weight of the raw material needed for a given production.
 
-#### Linki
+#### Links
 
-* [Działające narzędzie](http:185.238.72.254/kalkulator)
-* [Kod narzędzia](https://github.com/TomaszGerstel/kalkulator.git)
+* [Working tool](http:185.238.72.254/kalkulator)
+* [Tool code](https://github.com/TomaszGerstel/kalkulator.git)
 
 * * *
 
-## Kalkulator Realizacji Produkcji – Android
+## Production Execution Calculator - Android
 
-Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji produkcji i inne wartości na podstawie wprowadzonych danych, jak czas cyklu maszyny, wielkość produkcji oraz waga produktu. Narzędzie jest przydatne do codziennego nadzoru produkcji w zakładzie produkującym opakowania w procesie "wtrysko-rozdmuchu".
+Android version of the tool that calculates the estimated production lead time and other values based on inputs such as machine cycle time, production volume and product weight. The tool is useful for daily production supervision in a packaging production plant in the "injection-blowing" process.
 
 ![AndroidCalcAppImage](calc_for_android.jpg)
 
-#### Technologie
+#### Technologies
 
-* Java z odpowiednimi klasami dla Androida;
-* Interfejs użytkownika w odpowiednich znacznikach XML;
+* Java with specialized classes for Android;
+* User interface in XML tags;
 
-#### Funkcjonalności
+#### Functionalities
 
-* Możliwość szybkiego obliczenia realizacji produkcji i uzyskania konkretnej godziny realizacji w pobranym i zainstalowanym narzędziu ofline bez konieczności wykonywania skomplikowanych wyliczeń (jak chociażby "ręcznego" przeliczania sekund na godziny i minuty oraz dodawania do godziny obecnej);
-* Uzyskanie dodatkowych informacji, jak: wydajność i waga potrzebnego surowca do danej produkcji.
+* Possibility to quickly calculate the production execution and obtain a specific execution time in the downloaded and installed offline tool without the need to perform complex calculations (such as "manually" converting seconds to hours and minutes and adding to the current hour);
+* Obtaining additional information, such as: efficiency and weight of the raw material needed for a given production.
 
-#### Linki
+#### Links
 
-* [Narzędzie do pobrania](http://185.238.72.254/kalkulator_android/kalkulator_android_1.0.apk)
-* [Kod narzędzia](https://github.com/TomaszGerstel/calc_for_android.git)
+* [Apk with tool](http://185.238.72.254/kalkulator_android/kalkulator_android_1.0.apk)
+* [Tool code](https://github.com/TomaszGerstel/calc_for_android.git)
 
 * * *
 
-## Gra logiczna: Number puzzle
+## Puzzle game: Number puzzle
 
-Prosta gra logiczna, polegająca na przesuwaniu klocków w celu ułożenia ich w 
-odpowiedniej kolejności.
+A simple puzzle game where you move blocks to arrange them in a row in the correct order.
 
-![AndroidCalcAppImage](number_puzzle01.jpg)
+![NumberPuzzleImage](number_puzzle01.jpg)
 
-#### Technologie
+#### Technologies
 
 * Java;
-* Podstawowe biblioteki Javy do aplikacji okienkowych: Java AWT;
+* Basic Java libraries for window applications: Java AWT;
 
-#### Funkcjonalności
+#### Functionalities
 
-* Klocki automatycznie się mieszają podczas startu gry;
-* Możliwość zminy ilości klocków (poziomu) oraz resetu stanu gry;
-* Aplikacja zlicza ilość wykonanych ruchów oraz czas gry.
+* The blocks automatically mix when the game starts;
+* The ability to change the number of blocks (level) and reset the game state;
+* The application counts the number of moves made and the time of the game.
 
-#### Linki
+#### Links
 
-* [Plik exe do pobrania](http://185.238.72.254/number_puzzle/number_puzzle1.0.exe)
-* [Kod narzędzia](https://github.com/TomaszGerstel/number_puzzle.git)
+* [Exe file to download](http://185.238.72.254/number_puzzle/number_puzzle1.0.exe)
+* [Tool code](https://github.com/TomaszGerstel/number_puzzle.git)
 
 * * *
 
-# Więcej o mnie
+# More about me
 
-* Rocznik 1984, zamieszkały w Zielonej Górze;
+* Born in 1984, residing in Zielona Góra city;
 
-* W latach 2003 -2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim, gdzie między innymi nabyłem podstawową wiedzę na temat informatyki i programowania (informatyka ogólna, HTML i języki programowania - głównie Turbo Pascal) oraz zdobyłem przygotowanie pedagogiczne do nauczania techniki i informatyki (praktyki z nauczania informatyki);
+* In the years 2003 -2008 I studied: 'Technical and Information Technology Education' at the University of Zielona Góra, where, among other things, I acquired basic knowledge of computer science and programming (general computer science, HTML and programming languages - mainly Turbo Pascal) and gained pedagogical preparation for teaching technology and computer science ( IT teaching practices);
 
-* Posiadam wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn;
+* Years 2020/2021 Postgraduate studies: Programming Java applications, WSB University in Wrocław;
 
-* Doświadczenie na stanowisku Operator CNC (a także kurs "Obsługa i programowanie obrabiarek sterowanych numerycznie");
+* I have many years of experience in production work as production supervision, process setting and machine repair;
 
-* Mimo, iż nie pracowałem w sektorze informatycznym, posiadam pewną wiedzę informatyczną (także programistyczną) zdobytą przed laty oraz od lat interesowałem się sterowaniem i kontrolą procesu produkcji w przemyśle (zainteresowanie automatyką, maszynami CNC, próby założenia działalności opartej na wytwarzaniu produktu na maszynach sterowanych numerycznie);
+* Experience as a CNC operator (as well as the course "Operation and programming of numerically controlled machine tools");
 
-* W ostatnich latach postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java , aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
+* Although I did not work 'commercially' in the IT sector, I have some IT knowledge (including programming) gained years ago. And for years I have been interested in controlling the production process in industry (interest in automation, CNC machines, attempts to start a business based on manufacturing a product on CNC in the past);
 
-* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu;
+* Recently, I decided on my own initiative (beyond my professional duties) to create the production tools described above, which help some employees to supervise production in the plant where I was employed until recently (September 2022).
 
-* W ostatnim czasie postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które (na razie w fazie testowej) pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie obecnie jestem zatrudniony.
-
-[`wróć`](#podstawowe-informacje)
+[`back`](#briefly-about-me)
 
 ![MyImage](ja.jpg)
 
-### Kontakt
+### Contact
 
 * gerstel.tomasz@gmail.com

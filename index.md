@@ -8,7 +8,7 @@ Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu prz
 
 ## Krótko o mnie
 
-Programista Java (Junior level) plus frontend, bez formalnego doświadczenia komercyjnego w kierunku programowania. Wciąż się uczę. Mam na koncie kilka projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierają moją i innych pracę w zakładzie na produkcji. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+Programista Java (Junior level) plus frontend, bez formalnego doświadczenia komercyjnego w kierunku programowania. Mam na koncie kilka projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierają moją i innych pracę w zakładzie na produkcji. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 ## Technologie
 
@@ -28,10 +28,10 @@ Programista Java (Junior level) plus frontend, bez formalnego doświadczenia kom
 ## Umiejętności
 
 * Znajomość języka Java na poziomie średniozaawansowanym;
-* Znajomość HTML, CSS, JavaScript;
+* Umiejętność pracy z HTML, CSS, JavaScript;
 * Znajomość języka Python w stopniu podstawowym;
-* Znajomość obsługi baz danych i SQL;
-* Podstawowa znajomość narzędzi kontroli wersji oraz ciągłej integracji (GIT, Jenkins, Docker)
+* Wiedza z zakresu obsługi baz danych i SQL;
+* Podstawowa znajomość narzędzi kontroli wersji oraz ciągłej integracji (CI/CD) (GIT, Jenkins, Docker)
 
 ## Umiejętności w praktyce
 
@@ -123,7 +123,8 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 * Możliwość prowadzenia dziennika żywieniowego/aktywności – dodawania i usuwania wpisów;
 * Baza posiłków i aktywności, z której można dodawać pozycje do swojego dziennika;
 * Możliwość uzupełniania bazy o nowe posiłki i aktywności;
-* Obliczenia bilansu dla dowolnego zakresu i jego ocena na podstawie ustalonego zapotrzebowania użytkownika; wyliczenie i ocena BMI;
+* Obliczenia bilansu dla dowolnego zakresu i jego ocena na podstawie ustalonego zapotrzebowania użytkownika; 
+* Wyliczenie i ocena wskaźnika BMI;
 * Możliwość wglądu i edycji danych użytkownika
 
 #### Linki
@@ -209,6 +210,8 @@ odpowiedniej kolejności.
 
 * W latach 2003 -2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim, gdzie między innymi nabyłem podstawową wiedzę na temat informatyki i programowania (informatyka ogólna, HTML i języki programowania - głównie Turbo Pascal) oraz zdobyłem przygotowanie pedagogiczne do nauczania techniki i informatyki (praktyki z nauczania informatyki);
 
+* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu;
+
 * Posiadam wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn;
 
 * Doświadczenie na stanowisku Operator CNC (a także kurs "Obsługa i programowanie obrabiarek sterowanych numerycznie");
@@ -217,9 +220,7 @@ odpowiedniej kolejności.
 
 * W ostatnich latach postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java , aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
 
-* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu;
-
-* W ostatnim czasie postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które (na razie w fazie testowej) pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie obecnie jestem zatrudniony.
+* W ostatnim czasie postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie do niedawna byłem zatrudniony (wrzesień 2022).
 
 [`wróć`](#podstawowe-informacje)
 

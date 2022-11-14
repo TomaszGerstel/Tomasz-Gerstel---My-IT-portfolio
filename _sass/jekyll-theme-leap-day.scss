@@ -243,7 +243,7 @@ header {
     background-color: #FFE788;
   }
 
-  .downloads {
+  .downloads, .languages {
     float: right;
     margin:0 45px 0 0;
 
@@ -391,7 +391,7 @@ footer {
   #banner {
     width: 100%;
 
-    .downloads {
+    .downloads, .languages {
         margin-right: 60px;
       }
 
