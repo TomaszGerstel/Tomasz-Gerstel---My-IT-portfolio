@@ -227,3 +227,5 @@ A simple puzzle game where you move blocks to arrange them in a row in the corre
 ### Contact
 
 * gerstel.tomasz@gmail.com
+* [linkedin.com/in/tgerstel](https://linkedin.com/in/tgerstel)
+* [github.com](https://github.com/TomaszGerstel)

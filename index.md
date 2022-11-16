@@ -229,4 +229,5 @@ odpowiedniej kolejności.
 ### Kontakt
 
 * gerstel.tomasz@gmail.com
-* linkedin.com/in/tgerstel
+* [linkedin.com/in/tgerstel](https://linkedin.com/in/tgerstel)
+* [github.com](https://github.com/TomaszGerstel)
