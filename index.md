@@ -229,3 +229,4 @@ odpowiedniej kolejności.
 ### Kontakt
 
 * gerstel.tomasz@gmail.com
+* linkedin.com/in/tgerstel

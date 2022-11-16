@@ -68,7 +68,7 @@ An application supporting a database of quality problems (typical defects and pr
 * Uses **MySQL** relational database;
 * View layer developed with **AngularJS**
 
-#### Funkcionalities
+#### Functionalities
 
 * The ability to easily browse and search for available quality problems in the database and view the typical causes of a given problem and its proposed solutions;
 * Registration and login service implemented;
@@ -206,7 +206,7 @@ A simple puzzle game where you move blocks to arrange them in a row in the corre
 
 # More about me
 
-* Born in 1984, residing in Zielona Góra city;
+* Born in 1984, residing in Zielona Góra city, Poland;
 
 * In the years 2003 -2008 I studied: 'Technical and Information Technology Education' at the University of Zielona Góra, where, among other things, I acquired basic knowledge of computer science and programming (general computer science, HTML and programming languages - mainly Turbo Pascal) and gained pedagogical preparation for teaching technology and computer science ( IT teaching practices);
 
