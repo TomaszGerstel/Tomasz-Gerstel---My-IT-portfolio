@@ -105,6 +105,46 @@ Okienkowe narzędzie pomocne w monitorowaniu zużycia mediów, jak np. woda lub 
 
 * * *
 
+## Py-Countant
+
+Aplikacja pomocna w zarządzaniu finansami w małej działalności gospodarczej.
+Po wprowadzeniu danych o rzeczywistych transakcjach przeprowadzanych w prowadzonej działalności, 
+narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wysokość podatków koniecznych do odprowadzenia, zależną od typu opodatkowania.
+
+![Py-CountantAppImage](py-countant_app.jpg)
+
+#### Technologie
+
+* Aplikacja napisana w języku **Python** z wykorzystaniem technologii **FastAPI**;
+* Korzysta z relacyjnej bazy danych **SQLite**;
+* Pozostałe technologie to: **SQLAlchemy**, **Pydantic**, **Jinja2**
+
+#### Funkcjonalności
+
+* Rejestracja i logowanie użytkownika;
+* Dodawanie i usuwanie rachunków/faktur, a następnie zatwierdzanie na ich podstawie transakcji (wychodzących lub przychodzących);
+* Możliwość zdefiniowania transakcji specjalnej, jak opłata podatków lub wypłata wynagrodzenia;
+* Obliczenia bilansu:
+	* stan finansów;
+	* przychody brutto;
+	* koszta;
+	* bilans netto;
+	* vat;
+	* podatek dochodowy do zapłacenia;
+	* profit zależny od sposobu podatkowania;
+	* opłacone podatki, podatki pozostałe;
+	* wypłacony profit
+* Wgląd w ostatnie transakcje, wyszukiwanie faktur i transakcji;
+* Generowanie obliczeń dla wybranego zakresu dat;
+* Obliczenia z danego miesiąca lub miesiąca poprzedniego
+
+#### Linki
+
+* [Kopia aplikacji na serwerze](http://py-countant.herokuapp.com/)
+* [Kod projektu](https://github.com/TomaszGerstel/pycountant-simple.git)
+
+* * *
+
 ## Aplikacja monitorowania bilansu energetycznego
 
 Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jest dziennikiem żywieniowym/podejmowanych aktywności oraz przedstawia obliczenia osobistego bilansu energetycznego. W warstwie widoku wykorzystano szablony.
@@ -222,7 +262,7 @@ odpowiedniej kolejności.
 
 * W ostatnim czasie postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie do niedawna byłem zatrudniony (wrzesień 2022).
 
-[`wróć`](#podstawowe-informacje)
+[`wróć`](#informacje)
 
 ![MyImage](ja.jpg)
 

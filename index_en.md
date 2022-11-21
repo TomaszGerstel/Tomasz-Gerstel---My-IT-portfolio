@@ -106,6 +106,46 @@ A desktop tool helpful in monitoring the consumption of utilities, such as water
 
 * * *
 
+## Py-Countant
+
+The application helpful in managing finances in a small business.
+After entering data on actual transactions carried out in the business,
+the tool allows you to determine the profit, the tax base and the amount of taxes necessary to pay (depending on the type of taxation).
+
+![Py-CountantAppImage](py-countant_app.jpg)
+
+#### Technologies
+
+* Application written in **Python** using **FastAPI** technology;
+* Uses **SQLite** relational database;
+* Other technologies: **SQLAlchemy**, **Pydantic**, **Jinja2**
+
+#### Functionalities
+
+* Login and new user registration;
+* Adding and deleting receipts/invoices, and then approving transactions based on them (outgoing or incoming);
+* Ability to define a special transaction, such as tax payment or salary payment;
+* Balance calculation:
+	* state of finances;
+	* gross income;
+	* costs;
+	* net balance;
+	* VAT;
+	* income tax to pay;
+	* profit depends on the method of taxation;
+	* paid taxes, remaining tax to pay;
+	* paid profit
+* Insight into recent transactions, search for invoices and transactions;
+* Generate calculations for a selected date range;
+* Calculations for the current or previous month
+
+#### Links
+
+* [The copy of the application on the server](http://py-countant.herokuapp.com/)
+* [Project code](https://github.com/TomaszGerstel/pycountant-simple.git)
+
+* * *
+
 ## Energy balance monitoring application
 
 My final project in Java Application Development. The app is a food/activity diary and provides personal energy balance calculations. The view layer uses templates.
