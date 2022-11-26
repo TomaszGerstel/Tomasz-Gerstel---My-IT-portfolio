@@ -141,7 +141,7 @@ the tool allows you to determine the profit, the tax base and the amount of taxe
 
 #### Links
 
-* [The copy of the application on the server](http://py-countant.herokuapp.com/)
+* [The copy of the application on the server](http://py-countant.com/)
 * [Project code](https://github.com/TomaszGerstel/pycountant-simple.git)
 
 * * *
