@@ -140,7 +140,7 @@ narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wys
 
 #### Linki
 
-* [Kopia aplikacji na serwerze](http://py-countan,0t.com/)
+* [Kopia aplikacji na serwerze](http://py-countant.com/)
 * [Kod projektu](https://github.com/TomaszGerstel/pycountant-simple.git)
 
 * * *
