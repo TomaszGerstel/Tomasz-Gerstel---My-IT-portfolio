@@ -55,6 +55,61 @@ Programista Java (Junior level) plus frontend, bez formalnego doświadczenia kom
 
 # Moje Projekty
 
+## J-Countant
+
+Aplikacja pomocna w zarządzaniu finansami w małej działalności gospodarczej (zmodyfikowana wersja aplikacji napisanej pierwotnie w języku Python, 
+z wykorzystaniem innych technologii). Na narzędzie składają się dwie odrębne aplikacje (osobno zdefiniowano 'front-end' i odrębnie 'back-end').
+
+Po wprowadzeniu danych o rzeczywistych transakcjach przeprowadzanych w prowadzonej działalności, 
+narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wysokość podatków koniecznych do odprowadzenia, zależną od typu opodatkowania.
+
+#### Charakterystyka
+
+Aplikacja napisana w architekturze **REST**, pracująca na danych zapisywanych w bazie **PostgreSQL**. 
+Część 'back-endowa' została aktualnie zaimplementowana wraz z bazą danych w kontenerach **Dockera** na serwerze VPS pod systemem **Debian**.
+Część 'fron-tendową', komunikującą się z częścią 'back-endową', umieszczono w innej lokalizacji z wykorzystaniem prostej usługi oferowanej przez Amazon Web Services (**AWS**).
+
+![J-CountantAppImage](jcountant_01.jpg)
+
+#### Technologie
+
+* Część 'back-endowa' aplikacji napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
+* Korzysta z relacyjnej bazy danych **PostgreSQL**;
+* Wykorzystane komponenty Spring: **Spring Security**, **Spring Web**, **Spring Data**;
+* Pozostałe technologie to: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
+* Narzędzia wykorzystane w testowaniu aplikacji: **JUnit**, **Mockito**, **AssertJ**;
+* Technologie, których użyto do wdrażania aplikacji: **Git**, **Docker**, **Docker Compose**, **AWS**;
+* Część 'front-endowa' zrealizowana przy pomocy frameworku **AngularJS**
+
+#### Funkcjonalności
+
+* Rejestracja i logowanie użytkownika;
+* Dodawanie i usuwanie rachunków/faktur, a następnie zatwierdzanie na ich podstawie transakcji (wychodzących lub przychodzących);
+* Możliwość zdefiniowania transakcji specjalnej, jak opłata podatków lub wypłata wynagrodzenia;
+* Obliczenia bilansu:
+	* stan finansów;
+	* przychody brutto;
+	* koszta;
+	* bilans netto;
+	* vat;
+	* podatek dochodowy do zapłacenia;
+	* profit zależny od sposobu opodatkowania;
+	* opłacone podatki, podatki pozostałe;
+	* wypłacony profit
+* Wgląd w ostatnie transakcje, wyszukiwanie faktur i transakcji;
+* Generowanie obliczeń dla wybranego zakresu dat;
+* Obliczenia z danego miesiąca lub miesiąca poprzedniego
+
+![J-CountantAppImage2](jcountant_02.jpg)
+
+#### Linki
+
+* [Frontent obsługujący aplikację backendową](http://jcountant.s3-website.eu-west-3.amazonaws.com)
+* [Kod projektu - front](https://github.com/TomaszGerstel/JCountant_front.git)
+* [Kod projektu - back](https://github.com/TomaszGerstel/JCountant.git)
+
+* * *
+
 ## Baza Problemów Jakościowych
 
 Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur postępowania) występujących w wyspecjalizowanym zakładzie produkującym butelki z tworzywa sztucznego.
@@ -63,7 +118,7 @@ Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur 
 
 #### Technologie
 
-* Aplikacja napisana w języku **Java** z wykorzystaniem frameworka **Spring**;
+* Aplikacja napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
 * Korzysta z relacyjnej bazy danych **MySQL**;
 * Warstwa widoku opracowana z wykorzystaniem **AngularJS**
 
@@ -131,7 +186,7 @@ narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wys
 	* bilans netto;
 	* vat;
 	* podatek dochodowy do zapłacenia;
-	* profit zależny od sposobu podatkowania;
+	* profit zależny od sposobu opodatkowania;
 	* opłacone podatki, podatki pozostałe;
 	* wypłacony profit
 * Wgląd w ostatnie transakcje, wyszukiwanie faktur i transakcji;
@@ -153,7 +208,7 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 
 #### Technologie
 
-* Aplikacja napisana w języku Java z wykorzystaniem frameworka Spring;
+* Aplikacja napisana w języku Java z wykorzystaniem frameworku Spring;
 * Korzysta z relacyjnej bazy danych MySQL;
 * W warstwie prezentacji zastosowano szablon widoków Thymeleaf
 
