@@ -56,6 +56,61 @@ Java programmer (Junior level) plus frontend, without formal commercial experien
 
 # My Projects
 
+## J-Countant
+
+The application helpful in managing finances in a small business (a modified version of the application originally written in Python,
+using other technologies). The tool consists of two separate applications ('front-end' and 'back-end' are defined separately).
+
+After entering data on actual transactions carried out in the business,
+the tool allows you to determine the profit, the tax base and the amount of taxes necessary to pay (depending on the type of taxation).
+
+#### Characteristics
+
+Application written in the **REST** architecture, working on data stored in the **PostgreSQL** database.
+The 'back-end' part has now been implemented along with the database in **Docker** containers on a VPS server under **Debian**.
+The 'front-end' part, communicating with the 'back-end' part, was placed in a different location using a simple service offered by Amazon Web Services (**AWS**).
+
+![J-CountantAppImage](jcountant_01.jpg)
+
+#### Technologies
+
+* 'Back-end' part of the application written in **Java** using the **Spring** framework;
+* Uses a relational database **PostgreSQL**;
+* Used Spring components: **Spring Security**, **Spring Web**, **Spring Data**;
+* Other technologies: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
+* Tools used in application testing: **JUnit**, **Mockito**, **AssertJ**;
+* Technologies used to deploy the application: **Git**, **Docker**, **Docker Compose**, **AWS**;
+* The 'front-end' part implemented with **AngularJS** framework
+
+#### Functionalities
+
+* Login and new user registration;
+* Adding and deleting receipts/invoices, and then approving transactions based on them (outgoing or incoming);
+* Ability to define a special transaction, such as tax payment or salary payment;
+* Balance calculation:
+	* state of finances;
+	* gross income;
+	* costs;
+	* net balance;
+	* VAT;
+	* income tax to pay;
+	* profit depends on the method of taxation;
+	* paid taxes, remaining tax to pay;
+	* paid profit
+* Insight into recent transactions, search for invoices and transactions;
+* Generate calculations for a selected date range;
+* Calculations for the current or previous month
+
+![J-CountantAppImage2](jcountant_02.jpg)
+
+#### Links
+
+* [Front-end supporting the backend application](http://jcountant.s3-website.eu-west-3.amazonaws.com)
+* [Project code - front](https://github.com/TomaszGerstel/JCountant_front.git)
+* [Project code - back](https://github.com/TomaszGerstel/JCountant.git)
+
+* * *
+
 ## Quality Troubles Database
 
 An application supporting a database of quality problems (typical defects and procedures for improvement) occurring in a specialized plant producing plastic bottles.
