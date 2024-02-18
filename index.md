@@ -8,38 +8,41 @@ Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu prz
 
 ## Krótko o mnie
 
-Programista Java (Junior level) plus frontend, bez formalnego doświadczenia komercyjnego w kierunku programowania. Mam na koncie kilka projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierają moją i innych pracę w zakładzie na produkcji. Wykształcenie Techniczno-Informatyczne (mgr inż.), Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z branży finansowej. Poza tym kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierały w przeszłości moją pracę i innych w zakładzie produkcyjnym. Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 ## Technologie
 
 - Java;
+- Kotlin;
 - Python (podstawowy);
-- JavaScript;
+- PHP (podstawy);
+- JavaScript, TypeScript;
 - HTML, CSS;
 - MySQL;
 - Frameworki, interfejsy i standardy:
 	- JakartaEE;
 	- Spring Framework;
 	- JDBC, JPA, Hibernate, CRUD;
-	- AngularJS;
-	- MySQL;
+	- Angular i AngularJS;
+	- MySQL, PostgreSQL;
 	- Jenkins
 
 ## Umiejętności
 
-* Znajomość języka Java na poziomie średniozaawansowanym;
-* Umiejętność pracy z HTML, CSS, JavaScript;
-* Znajomość języka Python w stopniu podstawowym;
-* Wiedza z zakresu obsługi baz danych i SQL;
-* Podstawowa znajomość narzędzi kontroli wersji oraz ciągłej integracji (CI/CD) (GIT, Jenkins, Docker)
+* Znajomość języka Java na poziomie średniozaawansowanym, a także Kotlin oraz doświadczenie w rozwijaniu aplikacji w tych językach;
+* Umiejętność pracy z HTML, CSS, JavaScript a także frameworkami Angular i AngularJS oraz doświadczenie w rozwijaniu serwisów z wykorzystaniem Angular;
+* Znajomość innych języków w stopniu podstawowym, jak Python, PHP;
+* Wiedza i doświadczenie z zakresu obsługi baz danych i SQL, a także, w mniejszym stopniu z bazami MongoDB;
+* Znajomość narzędzi kontroli wersji oraz ciągłej integracji (CI/CD) (GIT, Jenkins, Docker);
+* Doświadczenie i umiejętność współpracy z wykorzystaniem systemów kontroli wersji oraz w metodykach Agile.
 
 ## Umiejętności w praktyce
 
-* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java** (aplikacje tradycyjne lub webowe, a także na systemy Android);
+* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java** lun **Kotlin** (aplikacje tradycyjne lub webowe, a także na systemy Android);
 
 * Utworzenie bazy danych, która będzie współpracowała z projektem: ustalenie połączenia z bazą, wykorzystanie technologii mapowania obiektowo-relacyjnego w komunikacji między logiką aplikacji a bazą danych;
 
-* Utworzenie warstwy widoku aplikacji, z wykorzystaniem technologii JPA (JakartaServerPages) lub szablonów (jak Thymeleaf), albo zastosowaniem bardziej zaawansowanego rozwiązania korzystając z frameworku AngularJS (może to być niezależna aplikacja);
+* Utworzenie warstwy widoku aplikacji, z wykorzystaniem technologii JPA (JakartaServerPages) lub szablonów (jak Thymeleaf), albo zastosowaniem bardziej zaawansowanego rozwiązania korzystając z frameworku Angular lub AngularJS (może to być niezależna aplikacja);
 
 * Umiejętność pisania testów do tworzonej aplikacji oraz zadbania o właściwą walidację danych przetwarzanych przez aplikację (JUnit, Mockito);
 
@@ -311,11 +314,15 @@ odpowiedniej kolejności.
 
 * Doświadczenie na stanowisku Operator CNC (a także kurs "Obsługa i programowanie obrabiarek sterowanych numerycznie");
 
-* Mimo, iż nie pracowałem w sektorze informatycznym, posiadam pewną wiedzę informatyczną (także programistyczną) zdobytą przed laty oraz od lat interesowałem się sterowaniem i kontrolą procesu produkcji w przemyśle (zainteresowanie automatyką, maszynami CNC, próby założenia działalności opartej na wytwarzaniu produktu na maszynach sterowanych numerycznie);
+* Ponad roczne doświadczenie na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiada profil Java, jednak w praktyce dotyczy programowania także w języku Kotlin, oraz też obejmuje pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami. 
 
-* W ostatnich latach postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java , aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
+* Jeszcze nie będąc konkretnie związanym z branżą IT, zdobyłem pewną wiedzę informatyczną (także programistyczną) przed laty oraz od lat interesowałem się sterowaniem i kontrolą procesu produkcji w przemyśle (zainteresowanie automatyką, maszynami CNC, próby założenia działalności opartej na wytwarzaniu produktu na maszynach sterowanych numerycznie);
 
-* W ostatnim czasie postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie do niedawna byłem zatrudniony (wrzesień 2022).
+* W ostatnich latach (przed podjęciem pracy w IT) postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java , aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
+
+* Jeszcze pracując w zakłądzie produkcyjnym, postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie do niedawna byłem zatrudniony (wrzesień 2022).
+
+* Od lutego 2023 jestem zatrudniony na stanowisku Junior Software Developer w firmie z branży finansowej.
 
 [`wróć`](#informacje)
 
