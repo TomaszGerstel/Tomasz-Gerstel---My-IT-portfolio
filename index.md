@@ -2,13 +2,9 @@
 layout: default
 ---
 
-# Informacje
-
-Prezentowana strona to coś na kształt osobistego portfolio. Ma ona na celu przedstawienie kwalifikacji programistycznych autora. Realizowane jest to poprzez prezentację przykładowo utworzonych narzędzi/aplikacji.
-
 ## Krótko o mnie
 
-Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z branży finansowej. Poza tym kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierały w przeszłości moją pracę i innych w zakładzie produkcyjnym. Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z branży finansowej. Poza tym kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierały w przeszłości moją pracę i pracę innych w zakładzie produkcyjnym. Posiadam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 ## Technologie
 
@@ -23,7 +19,7 @@ Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z b
 	- JakartaEE;
 	- Spring Framework;
 	- JDBC, JPA, Hibernate, CRUD;
-	- Angular i AngularJS;
+	- Angular, AngularJS;
 	- MySQL, PostgreSQL;
 	- Jenkins
 
@@ -34,11 +30,12 @@ Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z b
 * Znajomość innych języków w stopniu podstawowym, jak Python, PHP;
 * Wiedza i doświadczenie z zakresu obsługi baz danych i SQL, a także, w mniejszym stopniu z bazami MongoDB;
 * Znajomość narzędzi kontroli wersji oraz ciągłej integracji (CI/CD) (GIT, Jenkins, Docker);
-* Doświadczenie i umiejętność współpracy z wykorzystaniem systemów kontroli wersji oraz w metodykach Agile.
+* Doświadczenie i umiejętność współpracy w zespole programistów z wykorzystaniem systemów kontroli wersji;
+* Doświadczenie pracy w metodykach Agile.
 
 ## Umiejętności w praktyce
 
-* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java** lun **Kotlin** (aplikacje tradycyjne lub webowe, a także na systemy Android);
+* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java** lub **Kotlin** (aplikacje tradycyjne lub webowe, a także na systemy Android);
 
 * Utworzenie bazy danych, która będzie współpracowała z projektem: ustalenie połączenia z bazą, wykorzystanie technologii mapowania obiektowo-relacyjnego w komunikacji między logiką aplikacji a bazą danych;
 
@@ -306,25 +303,25 @@ odpowiedniej kolejności.
 
 * Rocznik 1984, zamieszkały w Zielonej Górze;
 
-* W latach 2003 -2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim, gdzie między innymi nabyłem podstawową wiedzę na temat informatyki i programowania (informatyka ogólna, HTML i języki programowania - głównie Turbo Pascal) oraz zdobyłem przygotowanie pedagogiczne do nauczania techniki i informatyki (praktyki z nauczania informatyki);
-
-* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu;
+* W latach 2003 - 2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim, gdzie między innymi nabyłem podstawową wiedzę na temat informatyki i programowania (informatyka ogólna, HTML i języki programowania - głównie Turbo Pascal) oraz zdobyłem przygotowanie pedagogiczne do nauczania techniki i informatyki (praktyki z nauczania informatyki);
 
 * Posiadam wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn;
 
 * Doświadczenie na stanowisku Operator CNC (a także kurs "Obsługa i programowanie obrabiarek sterowanych numerycznie");
 
-* Ponad roczne doświadczenie na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiada profil Java, jednak w praktyce dotyczy programowania także w języku Kotlin, oraz też obejmuje pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami. 
+* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu;
+
+* Obecnie mam ponad roczne doświadczenie na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiada profil Java (w praktyce dotyczy programowania także w języku Kotlin, oraz też obejmuje pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami). 
 
 * Jeszcze nie będąc konkretnie związanym z branżą IT, zdobyłem pewną wiedzę informatyczną (także programistyczną) przed laty oraz od lat interesowałem się sterowaniem i kontrolą procesu produkcji w przemyśle (zainteresowanie automatyką, maszynami CNC, próby założenia działalności opartej na wytwarzaniu produktu na maszynach sterowanych numerycznie);
 
-* W ostatnich latach (przed podjęciem pracy w IT) postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java , aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
+* W ostatnich latach (przed podjęciem pracy w IT) postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java, aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
 
-* Jeszcze pracując w zakłądzie produkcyjnym, postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie do niedawna byłem zatrudniony (wrzesień 2022).
+* Jeszcze pracując w zakładzie produkcyjnym, postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie do niedawna byłem zatrudniony (wrzesień 2022).
 
 * Od lutego 2023 jestem zatrudniony na stanowisku Junior Software Developer w firmie z branży finansowej.
 
-[`wróć`](#informacje)
+[`wróć`](#krtko-o-mnie)
 
 ![MyImage](ja.jpg)
 
