@@ -4,20 +4,20 @@ layout: default
 
 ## Krótko o mnie
 
-Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z branży finansowej. Poza tym kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierały w przeszłości moją pracę i pracę innych w zakładzie produkcyjnym. Posiadam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+Posiadam niespełna dwa lata doświadczenia na stanowusku Junior Software Developer w firmie z branży finansowej. Poza tym kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierały w przeszłości moją pracę i pracę innych w zakładzie produkcyjnym. Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 ## Technologie
 
 - Java;
 - Kotlin;
-- Python (podstawowy);
-- PHP (podstawy);
 - JavaScript, TypeScript;
+- Python (podstawowy);
+- PHP (podstawowy);
 - HTML, CSS;
 - MySQL;
-- Frameworki, interfejsy i standardy:
-	- JakartaEE;
+- Frameworki, interfejsy i standardy:	
 	- Spring Framework;
+	- JakartaEE;
 	- JDBC, JPA, Hibernate, CRUD;
 	- Angular, AngularJS;
 	- MySQL, PostgreSQL;
@@ -25,31 +25,29 @@ Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z b
 
 ## Umiejętności
 
-* Znajomość języka Java na poziomie średniozaawansowanym, a także Kotlin oraz doświadczenie w rozwijaniu aplikacji w tych językach;
-* Umiejętność pracy z HTML, CSS, JavaScript a także frameworkami Angular i AngularJS oraz doświadczenie w rozwijaniu serwisów z wykorzystaniem Angular;
+* Znajomość języka Java oraz Kotlin na poziomie średniozaawansowanym oraz doświadczenie w rozwijaniu aplikacji w tych językach;
+* Umiejętność pracy z HTML, CSS, JavaScript a także z frameworkami Angular i AngularJS oraz komercyjne doświadczenie w rozwijaniu serwisów z wykorzystaniem Angular;
 * Znajomość innych języków w stopniu podstawowym, jak Python, PHP;
-* Wiedza i doświadczenie z zakresu obsługi baz danych i SQL, a także, w mniejszym stopniu z bazami MongoDB;
+* Wiedza i doświadczenie z zakresu obsługi relacyjnych baz danych i SQL, a także, w mniejszym stopniu z bazami MongoDB;
 * Znajomość narzędzi kontroli wersji oraz ciągłej integracji (CI/CD) (GIT, Jenkins, Docker);
 * Doświadczenie i umiejętność współpracy w zespole programistów z wykorzystaniem systemów kontroli wersji;
-* Doświadczenie pracy w metodykach Agile.
+* Praktyczne doświadczenie pracy w metodykach Agile (Jira, Confluence).
 
 ## Umiejętności w praktyce
 
-* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, Spring Tool Suite lub Android Studio), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java** lub **Kotlin** (aplikacje tradycyjne lub webowe, a także na systemy Android);
+* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, PyCharm, Spring Tool Suite, Android Studio albo Visual Studio Code), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java**, **Kotlin**, **Python** lub **JavaScript** (aplikacje tradycyjne lub webowe, a także na systemy Android);
 
 * Utworzenie bazy danych, która będzie współpracowała z projektem: ustalenie połączenia z bazą, wykorzystanie technologii mapowania obiektowo-relacyjnego w komunikacji między logiką aplikacji a bazą danych;
 
 * Utworzenie warstwy widoku aplikacji, z wykorzystaniem technologii JPA (JakartaServerPages) lub szablonów (jak Thymeleaf), albo zastosowaniem bardziej zaawansowanego rozwiązania korzystając z frameworku Angular lub AngularJS (może to być niezależna aplikacja);
 
-* Umiejętność pisania testów do tworzonej aplikacji oraz zadbania o właściwą walidację danych przetwarzanych przez aplikację (JUnit, Mockito);
+* Umiejętność pisania testów do tworzonej aplikacji oraz zadbania o właściwą walidację danych przetwarzanych przez aplikację (JUnit, Mockito, Spock);
 
 * Umiejętność implementacji procesu autoryzacji w tworzonej aplikacji (także z wykorzystaniem bazy danych);
 
 * Instalacja niezbędnego oprogramowania na serwerze oraz wdrożenie aplikacji na serwer pod systemem Debian (także przypisanie domeny); 
 
-* Korzystanie z narzędzi kontroli wersji jak GIT, z serwisu GitHub do współpracy z innymi, jak i do procesu ciągłej integracji oprogramowania (praca z narzędziem Jenkins);
-
-* Umiejętność stworzenia projektu webowego w języku Pyton np. w środowisku PyCharm; 
+* Korzystanie z narzędzi kontroli wersji jak GIT, z serwisu GitHub (lub Bitbucket) do współpracy z innymi, jak i do procesu ciągłej integracji oprogramowania (praca z narzędziem Jenkins);
 
 * * *
 
@@ -58,7 +56,7 @@ Posiadam rok doświadczenia na stanowusku Junior Software Developer w firmie z b
 ## J-Countant
 
 Aplikacja pomocna w zarządzaniu finansami w małej działalności gospodarczej (zmodyfikowana wersja aplikacji napisanej pierwotnie w języku Python, 
-z wykorzystaniem innych technologii). Na narzędzie składają się dwie odrębne aplikacje (osobno zdefiniowano 'front-end' i odrębnie 'back-end').
+z wykorzystaniem innych technologii). Na narzędzie składają się dwie odrębne aplikacje (osobno zdefiniowano 'frontend' i odrębnie 'backend').
 
 Po wprowadzeniu danych o rzeczywistych transakcjach przeprowadzanych w prowadzonej działalności, 
 narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wysokość podatków koniecznych do odprowadzenia, zależną od typu opodatkowania.
@@ -67,13 +65,13 @@ narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wys
 
 Aplikacja napisana w architekturze **REST**, pracująca na danych zapisywanych w bazie **PostgreSQL**. 
 Część 'back-endowa' została aktualnie zaimplementowana wraz z bazą danych w kontenerach **Dockera** na serwerze VPS pod systemem **Debian**.
-Część 'fron-tendową', komunikującą się z częścią 'back-endową', umieszczono w innej lokalizacji z wykorzystaniem prostej usługi oferowanej przez Amazon Web Services (**AWS**).
+Część 'frottendową', komunikującą się z częścią 'back-endową', umieszczono w innej lokalizacji z wykorzystaniem prostej usługi oferowanej przez Amazon Web Services (**AWS**).
 
 ![J-CountantAppImage](jcountant_01.jpg)
 
 #### Technologie
 
-* Część 'back-endowa' aplikacji napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
+* Część 'backendowa' aplikacji napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
 * Korzysta z relacyjnej bazy danych **PostgreSQL**;
 * Wykorzystane komponenty Spring: **Spring Security**, **Spring Web**, **Spring Data**;
 * Pozostałe technologie to: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
@@ -299,25 +297,25 @@ odpowiedniej kolejności.
 
 * * *
 
-# Więcej o mnie
+# Więcej o mnie 
 
-* Rocznik 1984, zamieszkały w Zielonej Górze;
+* Rocznik 1984, zamieszkały w Zielonej Górze.
 
-* W latach 2003 - 2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim, gdzie między innymi nabyłem podstawową wiedzę na temat informatyki i programowania (informatyka ogólna, HTML i języki programowania - głównie Turbo Pascal) oraz zdobyłem przygotowanie pedagogiczne do nauczania techniki i informatyki (praktyki z nauczania informatyki);
+* W latach 2003 - 2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim, gdzie między innymi nabyłem podstawową wiedzę na temat informatyki i programowania (informatyka ogólna, HTML i języki programowania - głównie Turbo Pascal) oraz zdobyłem przygotowanie pedagogiczne do nauczania techniki i informatyki (praktyki z nauczania informatyki).
 
-* Posiadam wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn;
+* Posiadam wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn.
 
-* Doświadczenie na stanowisku Operator CNC (a także kurs "Obsługa i programowanie obrabiarek sterowanych numerycznie");
+* Doświadczenie na stanowisku Operator CNC (a także kurs "Obsługa i programowanie obrabiarek sterowanych numerycznie").
 
-* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu;
+* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu.
 
-* Obecnie mam ponad roczne doświadczenie na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiada profil Java (w praktyce dotyczy programowania także w języku Kotlin, oraz też obejmuje pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami). 
+* Obecnie mam niespełna dwuletnie doświadczenie na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiada profil Java, a w praktyce dotyczy programowania także w języku Kotlin, oraz obejmuje też pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami. 
 
-* Jeszcze nie będąc konkretnie związanym z branżą IT, zdobyłem pewną wiedzę informatyczną (także programistyczną) przed laty oraz od lat interesowałem się sterowaniem i kontrolą procesu produkcji w przemyśle (zainteresowanie automatyką, maszynami CNC, próby założenia działalności opartej na wytwarzaniu produktu na maszynach sterowanych numerycznie);
+* Jeszcze nie będąc konkretnie związanym z branżą IT, zdobyłem pewną wiedzę informatyczną (także programistyczną) przed laty oraz od lat interesowałem się sterowaniem i kontrolą procesu produkcji w przemyśle (zainteresowanie automatyką, maszynami CNC).
 
-* W ostatnich latach (przed podjęciem pracy w IT) postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java, aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji;
+* Kilka lat temu (przed podjęciem pracy w IT) postanowiłem zainteresować się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java, aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji.
 
-* Jeszcze pracując w zakładzie produkcyjnym, postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie do niedawna byłem zatrudniony (wrzesień 2022).
+* Jeszcze pracując w zakładzie produkcyjnym, postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie byłem zatrudniony do wrzesinia 2022.
 
 * Od lutego 2023 jestem zatrudniony na stanowisku Junior Software Developer w firmie z branży finansowej.
 

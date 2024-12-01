@@ -5,20 +5,20 @@ permalink: /en
 
 ## Briefly about me
 
-I have one year of experience as a Junior Software Developer in a company from the financial industry. In addition, I have several years of non-commercial experience in creating utility tools (also implemented on servers), which, for example, have supported my work and the work of others in the production plant in the past. I have "Technical and IT" studies (master) and Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
+I have almost two years of experience as a Junior Software Developer in a 'fintech' company. In addition, I have several years of non-commercial experience in creating utility tools (also implemented on servers), which, for example, have supported my work and the work of others in the production plant in the past. I have "Technical and IT" studies (master) and Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
 
 ## Technologies
 
 - Java;
 - Kotlin;
+- JavaScript, TypeScript;
 - Python (basic);
 - PHP (basic);
-- JavaScript, TypeScript;
 - HTML, CSS;
 - MySQL;
 - Frameworks, interfaces and standards:
-	- JakartaEE;
 	- Spring Framework;
+	- JakartaEE;
 	- JDBC, JPA, Hibernate, CRUD;
 	- Angular, AngularJS;
 	- MySQL;
@@ -26,29 +26,29 @@ I have one year of experience as a Junior Software Developer in a company from t
 
 ## Skills
 
-* Knowledge of Java at an intermediate level, as well as Kotlin and experience in developing applications in these languages;
+* Intermediate knowledge of Java and Kotlin and experience in developing applications in these languages;
 * Ability to work with HTML, CSS, JavaScript as well as the Angular and AngularJS frameworks and experience in developing services with Angular;
 * Basic knowledge of other languages, such as Python, PHP;
 * Knowledge and experience with relational databases and SQL, and to a lesser extent with non-relational databases;
 * Basic knowledge of version control and continuous integration and delivery tools (CI/CD) (GIT, Jenkins, Docker);
 * Experience and ability to cooperate in a team of programmers using version control systems;
-* Experience of working in Agile methodologies.
+* Experience of working in Agile methodologies (Jira, Confluence).
 
 ## Practical skills
 
-* Working in the appropriate development environment (such as IntelliJ, Spring Tool Suite or Android Studio), choosing the right dependencies and the ability to create a project in **Java** or **Kotlin** (traditional or web applications, also for Android systems);
+* Working in the appropriate development environment (such as IntelliJ, Spring Tool Suite, Android Studio or Visual Studio Code), choosing the right dependencies and the ability to create a project in **Java**, **Kotlin**, **Python** or **JavaScript** (traditional or web applications, also for Android systems);
 
 * Creating a database that will cooperate with the project: establishing a connection with the database, using object-relational mapping technology in communication between the application logic and the database;
 
 * Creating an application view layer, using JPA technology (JakartaServerPages) or templates (like Thymeleaf). Also working with a more advanced solution using the AngularJS framework (it can be a separate application);
 
-* Ability to write tests for the created application and ensure proper validation of data processed by the application (JUnit, Mockito);
+* Ability to write tests for the created application and ensure proper validation of data processed by the application (JUnit, Mockito, Spock);
 
 * Ability to implement the authorization process in the created application (also using a database);
 
 * Installation of the necessary software on the server and deployment of the application to the server under the Debian system (including domain assignment);
 
-* Using version control tools such as GIT (GitHub) for collaboration with others and for continuous software delivery (Jenkins);
+* Using version control tools such as GIT (GitHub, Bitbucket) for collaboration with others and for continuous software delivery (Jenkins);
 
 * Ability to create a web project in Python, e.g. in the PyCharm environment;
 
@@ -59,7 +59,7 @@ I have one year of experience as a Junior Software Developer in a company from t
 ## J-Countant
 
 The application helpful in managing finances in a small business (a modified version of the application originally written in Python,
-using other technologies). The tool consists of two separate applications ('front-end' and 'back-end' are defined separately).
+using other technologies). The tool consists of two separate applications ('frontend' and 'backend' are defined separately).
 
 After entering data on actual transactions carried out in the business,
 the tool allows you to determine the profit, the tax base and the amount of taxes necessary to pay (depending on the type of taxation).
@@ -74,13 +74,13 @@ The 'front-end' part, communicating with the 'back-end' part, was placed in a di
 
 #### Technologies
 
-* 'Back-end' part of the application written in **Java** using the **Spring** framework;
+* 'Backend' part of the application written in **Java** using the **Spring** framework;
 * Uses a relational database **PostgreSQL**;
 * Used Spring components: **Spring Security**, **Spring Web**, **Spring Data**;
 * Other technologies: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
 * Tools used in application testing: **JUnit**, **Mockito**, **AssertJ**;
 * Technologies used to deploy the application: **Git**, **Docker**, **Docker Compose**, **AWS**;
-* The 'front-end' part implemented with **AngularJS** framework
+* The 'frontend' part implemented with **AngularJS** framework
 
 #### Functionalities
 
@@ -301,21 +301,21 @@ A simple puzzle game where you move blocks to arrange them in a row in the corre
 
 # More about me
 
-* Born in 1984, residing in Zielona Góra city, Poland;
+* Born in 1984, residing in Zielona Góra city, Poland.
 
-* In the years 2003 - 2008 I studied: 'Technical and Information Technology Education' at the University of Zielona Góra, where, among other things, I acquired basic knowledge of computer science and programming (general computer science, HTML and programming languages - mainly Turbo Pascal) and gained pedagogical preparation for teaching technology and computer science ( IT teaching practices);
+* In the years 2003 - 2008 I studied: 'Technical and Information Technology Education' at the University of Zielona Góra, where, among other things, I acquired basic knowledge of computer science and programming (general computer science, HTML and programming languages - mainly Turbo Pascal) and gained pedagogical preparation for teaching technology and computer science ( IT teaching practices).
 
-* I have many years of experience in production work as production supervision, process setting and machine repair;
+* I have many years of experience in production work as production supervision, process setting and machine repair.
 
-* Experience as a CNC operator (as well as the course "Operation and programming of numerically controlled machine tools");
+* Experience as a CNC operator (as well as the course "Operation and programming of numerically controlled machine tools").
 
-* Years 2020/2021 Postgraduate studies: Programming Java applications, WSB University in Wrocław;
+* Years 2020/2021 Postgraduate studies: Programming Java applications, WSB University in Wrocław.
 
-* Currently, I have over a year of experience as a Junior Software Developer in a company from the financial industry. The position held has a Java profile (in practice, it also covers programming in Kotlin, and also includes 'frontend' work with the Angular framework and several other technologies).
+* Currently, I have almost two years of experience as a Junior Software Developer in a company from the financial industry. The position held has a Java profile. In practice, it also covers programming in Kotlin, and also includes 'frontend' work with the Angular framework and several other technologies.
 
-* Although I did not work 'commercially' in the IT sector, I have some IT knowledge (including programming) gained years ago. And for years I have been interested in controlling the production process in industry (interest in automation, CNC machines, attempts to start a business based on manufacturing a product on CNC in the past);
+* A few years ago (before taking up a job in IT) I decided to take an interest in "typical" programming and a more "modern" language (as opposed to Pascal), such as Java, so that in the future I could change the nature of my work to be more independent and universal, not directly related to production work.
 
-* Recently, I decided on my own initiative (beyond my professional duties) to create the production tools described above, which help some employees to supervise production in the plant where I was employed until recently (September 2022);
+* While still working at the production plant, I decided on my own initiative (above and beyond my professional duties) to create the production tools described above, which help some employees supervise production at the plant where I was employed until September 2022.
 
 * Since February 2023, I have been employed as a Junior Software Developer in a company from the financial industry.
 
