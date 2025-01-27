@@ -5,24 +5,27 @@ permalink: /en
 
 ## Briefly about me
 
-I have almost two years of experience as a Junior Software Developer in a 'fintech' company. In addition, I have several years of non-commercial experience in creating utility tools (also implemented on servers), which, for example, have supported my work and the work of others in the production plant in the past. I have "Technical and IT" studies (master) and Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
+I have two years of experience as a Junior Software Developer in a 'fintech' company. In addition, I have several years of non-commercial experience in creating utility tools (also implemented on servers), which, for example, have supported my work and the work of others in the production plant in the past. I have "Technical and IT" studies (master) and Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
 
-## Technologies
+## Technologies I work with
 
 - Java;
 - Kotlin;
-- JavaScript, TypeScript;
+- JavaScript / TypeScript;
 - Python (basic);
 - PHP (basic);
 - HTML, CSS;
 - MySQL;
-- Frameworks, interfaces and standards:
-	- Spring Framework;
-	- JakartaEE;
-	- JDBC, JPA, Hibernate, CRUD;
-	- Angular, AngularJS;
-	- MySQL;
-	- Jenkins
+
+#### Frameworks, interfaces and standards:
+
+- Spring Framework;
+- JakartaEE;
+- JDBC, JPA, Hibernate, CRUD;
+- Angular, AngularJS;
+- MySQL;
+- Docker;
+- Jenkins
 
 ## Skills
 
@@ -36,11 +39,11 @@ I have almost two years of experience as a Junior Software Developer in a 'finte
 
 ## Practical skills
 
-* Working in the appropriate development environment (such as IntelliJ, Spring Tool Suite, Android Studio or Visual Studio Code), choosing the right dependencies and the ability to create a project in **Java**, **Kotlin**, **Python** or **JavaScript** (traditional or web applications, also for Android systems);
+* Working in the appropriate development environment (such as IntelliJ, PyCharm, SpringToolSuite, AndroidStudio or VisualStudioCode), choosing the right dependencies and the ability to create a project in **Java**, **Kotlin**, **Python** or **JavaScript** (traditional or web applications, also for Android systems);
 
 * Creating a database that will cooperate with the project: establishing a connection with the database, using object-relational mapping technology in communication between the application logic and the database;
 
-* Creating an application view layer, using JPA technology (JakartaServerPages) or templates (like Thymeleaf). Also working with a more advanced solution using the AngularJS framework (it can be a separate application);
+* Creating an application view layer, using JPA technology (JakartaServerPages) or templates (like Thymeleaf). Also working with a more advanced solution using the AngularJS framework (a separate application);
 
 * Ability to write tests for the created application and ensure proper validation of data processed by the application (JUnit, Mockito, Spock);
 
@@ -68,7 +71,7 @@ the tool allows you to determine the profit, the tax base and the amount of taxe
 
 Application written in the **REST** architecture, working on data stored in the **PostgreSQL** database.
 The 'back-end' part has now been implemented along with the database in **Docker** containers on a VPS server under **Debian**.
-The 'front-end' part, communicating with the 'back-end' part, was placed in a different location using a simple service offered by Amazon Web Services (**AWS**).
+The 'front-end' part, communicating with the 'back-end' part, was placed in a different location using a service offered by Amazon Web Services (**AWS**).
 
 ![J-CountantAppImage](jcountant_01.jpg)
 
@@ -78,7 +81,7 @@ The 'front-end' part, communicating with the 'back-end' part, was placed in a di
 * Uses a relational database **PostgreSQL**;
 * Used Spring components: **Spring Security**, **Spring Web**, **Spring Data**;
 * Other technologies: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
-* Tools used in application testing: **JUnit**, **Mockito**, **AssertJ**;
+* Tools used in application testing: **JUnit**, **Mockito**, **AssertJ**, **Testcontainers**;
 * Technologies used to deploy the application: **Git**, **Docker**, **Docker Compose**, **AWS**;
 * The 'frontend' part implemented with **AngularJS** framework
 
@@ -105,7 +108,7 @@ The 'front-end' part, communicating with the 'back-end' part, was placed in a di
 
 #### Links
 
-* [Front-end supporting the backend application](http://jcountant.s3-website.eu-west-3.amazonaws.com)
+* [Working App](http://jcountant.s3-website.eu-west-3.amazonaws.com)
 * [Project code - front](https://github.com/TomaszGerstel/JCountant_front.git)
 * [Project code - back](https://github.com/TomaszGerstel/JCountant.git)
 
@@ -309,15 +312,13 @@ A simple puzzle game where you move blocks to arrange them in a row in the corre
 
 * Experience as a CNC operator (as well as the course "Operation and programming of numerically controlled machine tools").
 
-* Years 2020/2021 Postgraduate studies: Programming Java applications, WSB University in Wrocław.
-
-* Currently, I have almost two years of experience as a Junior Software Developer in a company from the financial industry. The position held has a Java profile. In practice, it also covers programming in Kotlin, and also includes 'frontend' work with the Angular framework and several other technologies.
-
 * A few years ago (before taking up a job in IT) I decided to take an interest in "typical" programming and a more "modern" language (as opposed to Pascal), such as Java, so that in the future I could change the nature of my work to be more independent and universal, not directly related to production work.
 
 * While still working at the production plant, I decided on my own initiative (above and beyond my professional duties) to create the production tools described above, which help some employees supervise production at the plant where I was employed until September 2022.
 
-* Since February 2023, I have been employed as a Junior Software Developer in a company from the financial industry.
+* Years 2020/2021 Postgraduate studies: Programming Java applications, WSB University in Wrocław.
+
+* Currently, I have two years of experience (Since February 2023 to January 2025) as a Junior Software Developer in a company from the financial industry. The position held had a Java profile, and in practice also involved programming in the Kotlin language, and also included 'frontend' work with the Angular framework and several other technologies.
 
 [`back`](#briefly-about-me)
 
