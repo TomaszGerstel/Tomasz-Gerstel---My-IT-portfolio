@@ -14,7 +14,7 @@ Posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Devel
 - Python (podstawowy);
 - PHP (podstawowy);
 - HTML, CSS;
-- MySQL, PostgreSQL;
+- SQL;
 
 #### Frameworki, interfejsy i standardy:	
 
@@ -22,7 +22,8 @@ Posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Devel
 - JakartaEE;
 - JDBC, JPA, Hibernate, CRUD;
 - Angular, AngularJS;
-- MySQL, PostgreSQL;
+- MySQL, PostgreSQL, MongoDB;
+- JUnit, Spock, Mockito;
 - Docker;
 - Jenkins
 
@@ -55,6 +56,56 @@ Posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Devel
 * * *
 
 # Moje Projekty
+
+## Quiz Master
+
+```
+Jest to obecnie rozwijany nowy projekt (posiadający już podstawową funkcjonalność)
+Charakterystyka technologiczna: 
+	> Java, Spring, Angular, 
+	> MongoDB, Liquibase,
+	> Groovy, Spock, JUnit
+```
+Aplikacja dająca możliwość nauki i sprawdzenia się poprzez przerabianie 'quizów' np. związanych z nauką programowania w Javie albo w dowolnym innym temacie.
+Obecnie są dostępne przykładowe quizy związane z nauką Javy, wyniki nie są rejestrowane i nie ma możliwości ani potrzeby logowania się do serwisu. 
+
+#### Działanie
+
+W aplikacji jest wyświetlana lista dostępnych quizów, klikniecie na wybrany rozpoczyna quiz (ładuje pytania z odpowiedziami). Po wyborze odpowiedzi quiz należy przesłać do 'backendu', aby otrzymać informacje o wyniku (obecnie bez szczegółów na temat, które konkretnie odpowiedzi były niepoprawne).
+
+#### Technologie
+
+* Część 'backendowa' aplikacji napisana w języku **Java** z wykorzystaniem frameworka **Spring**;
+* 'Frontend' utworzony przy pomocy frameworka **Angular**, z wykorzystaniem Bootstrap;
+* Korzysta z nierelacyjnej bazy danych **MongoDB** i narzędzia **Liquibase** do migracji;
+* Pisząc testy korzystano (poza **Java**) z jezyka **Groovy** oraz z biblioteki **Spock** oraz **RestAssured**;
+
+![QuizMasterAppImage](quiz_master_01.jpg)
+
+#### Cechy aplikacji
+
+* Koncepcja przeprowadzania różnego rodzaju testów/quizów z wykorzystaniem 'backendu' i bazy danych pozwala na:
+	* zapewnienie wysokiej jakości wyników, ponieważ przesyłane dane z pytaniami do 'frontendu' nie zawierają wyników oraz ograniczone są możliwości manipulacji czasem wykonania testu bo czas ten jest liczony w 'backendzie';
+	* dodawanie quizów oraz ich rozbudowę;
+	* rejestrację wyników;
+	* każdorazowe 'mieszanie' kolejności pytań oraz odpowiedzi w ramach pytania;
+	* edycję parametrów, jak np. współczynnika zaliczenia testu.
+
+#### Planowane Funkcjonalności
+
+* Rejestracja i logowanie użytkownika;
+* Odliczanie czasu trawania quizu i zwracanie szczegółowych informacji na temat wyniku;
+* Rejestrowanie wyników;
+* Możliwość dodawania quizów i edycji;
+
+![QuizMasterAppImage2](quiz_master_02.jpg)
+
+#### Linki
+
+* [Działająca aplikacja](http://185.238.72.254:4200)
+* [Kod projektu](https://github.com/TomaszGerstel/QuizMaster.git)
+
+* * *
 
 ## J-Countant
 
@@ -247,7 +298,7 @@ Proste narzędzie obliczające przewidywany czas realizacji produkcji i inne war
 
 #### Linki
 
-* [Działające narzędzie](http:185.238.72.254/kalkulator)
+* [Działające narzędzie](http://185.238.72.254/kalkulator)
 * [Kod narzędzia](https://github.com/TomaszGerstel/kalkulator.git)
 
 * * *

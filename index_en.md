@@ -15,7 +15,7 @@ I have two years of experience as a Junior Software Developer in a 'fintech' com
 - Python (basic);
 - PHP (basic);
 - HTML, CSS;
-- MySQL;
+- SQL;
 
 #### Frameworks, interfaces and standards:
 
@@ -23,7 +23,8 @@ I have two years of experience as a Junior Software Developer in a 'fintech' com
 - JakartaEE;
 - JDBC, JPA, Hibernate, CRUD;
 - Angular, AngularJS;
-- MySQL;
+- MySQL, PostgreSQL, MongoDB;
+- JUnit, Spock, Mockito;
 - Docker;
 - Jenkins
 
@@ -58,6 +59,64 @@ I have two years of experience as a Junior Software Developer in a 'fintech' com
 * * *
 
 # My Projects
+
+## Quiz Master
+
+```
+This is a new project currently being developed (already having basic functionality)
+Technological characteristics:
+	> Java, Spring, Angular,
+	> MongoDB, Liquibase,
+	> Groovy, Spock, JUnit
+```
+Application that allows learning and testing by completing 'quizzes',
+ e.g. related to learning Java programming or any other topic.
+Currently, sample quizzes related to learning Java are available, 
+the results are not recorded and there is no possibility or need to log in to the service.
+
+#### Operation
+
+The application displays a list of available quizzes, clicking on the selected one starts the quiz 
+(loads questions with answers). After selecting the answer, 
+the quiz should be sent to the 'backend' to receive information about the result 
+(currently without details about which specific answers were incorrect).
+
+#### Technologies
+
+* The 'backend' part of the application was written in **Java** using the **Spring** framework;
+
+* The 'frontend' was created using the **Angular** framework (also using Bootstrap in view);
+
+* It uses the **MongoDB** non-relational database and the **Liquibase** tool for migration;
+
+* When writing tests, apart form Java and JUnit, the **Groovy** language and the **Spock** and **RestAssured** libraries were used;
+
+![QuizMasterAppImage](quiz_master_01.jpg)
+
+#### Application Features
+
+* The concept of conducting various types of tests/quizzes using the 'backend' and database allows for:
+
+	* ensuring high quality results, because the data sent with questions to the 'frontend' does not contain results
+	 and the possibilities of manipulating the test execution time are limited because the time is counted in the 'backend';
+	* adding quizzes and expanding them;
+	* registering results;
+	* each time 'mixing' the order of questions and answers within a question;
+	* editing parameters, such as the test pass rate.
+
+#### Planned Functionalities
+
+* User registration and login;
+* Counting down the quiz duration and returning detailed information about the result;
+* Recording results;
+* Possibility to add and edit quizzes;
+
+![QuizMasterAppImage2](quiz_master_02.jpg)
+
+#### Links
+
+* [Working application](http://185.238.72.254:4200)
+* [Project code](https://github.com/TomaszGerstel/QuizMaster.git)
 
 ## J-Countant
 
@@ -250,7 +309,7 @@ A simple tool that calculates the estimated production lead time and other value
 
 #### Links
 
-* [Working tool](http:185.238.72.254/kalkulator)
+* [Working tool](http://185.238.72.254/kalkulator)
 * [Tool code](https://github.com/TomaszGerstel/kalkulator.git)
 
 * * *
