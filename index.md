@@ -67,11 +67,13 @@ Charakterystyka technologiczna:
 	> Groovy, Spock, JUnit
 ```
 Aplikacja dająca możliwość nauki i sprawdzenia się poprzez przerabianie 'quizów' np. związanych z nauką programowania w Javie albo w dowolnym innym temacie.
-Obecnie są dostępne przykładowe quizy związane z nauką Javy, wyniki nie są rejestrowane i nie ma możliwości ani potrzeby logowania się do serwisu. 
+Obecnie są dostępne przykładowe quizy związane z nauką Javy, nie ma możliwości ani potrzeby logowania się do serwisu. Rejestrowany jest jedynie czas wykonania testu. 
 
 #### Działanie
 
-W aplikacji jest wyświetlana lista dostępnych quizów, klikniecie na wybrany rozpoczyna quiz (ładuje pytania z odpowiedziami). Po wyborze odpowiedzi quiz należy przesłać do 'backendu', aby otrzymać informacje o wyniku (obecnie bez szczegółów na temat, które konkretnie odpowiedzi były niepoprawne).
+W aplikacji jest wyświetlana lista dostępnych quizów, klikniecie na wybrany rozpoczyna quiz (ładuje pytania z odpowiedziami). Po wyborze odpowiedzi quiz należy przesłać do 'backendu', aby otrzymać informacje o wyniku. Na wynik zawiera się ocena (pozytywna/negatywna), liczba prawidłowych odpowiedzi i czas odpowiedzi (liczony od 'kliknięcia' na wybrany quiz w 'backendzie' na podstawie wygenerowanego 'session id').
+
+Wraz z wynikiem zwracane są także poprawne odpowiedzi, dzięki czemu na 'frontendzie' zaimplementowano zmianę kolorystyki, po zakonczonym teście, poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w zależności od oceny odpowiedzi).
 
 #### Technologie
 
@@ -102,7 +104,7 @@ W aplikacji jest wyświetlana lista dostępnych quizów, klikniecie na wybrany r
 
 #### Linki
 
-* [Działająca aplikacja](http://185.238.72.254:4200)
+* [Działająca aplikacja](https://quizmaster.romananton.online)
 * [Kod projektu](https://github.com/TomaszGerstel/QuizMaster.git)
 
 * * *
@@ -247,7 +249,7 @@ narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wys
 
 #### Linki
 
-* [Kopia aplikacji na serwerze](http://py-countant.com/)
+* [Aplikacja na serwerze](https://pycountant.romananton.online)
 * [Kod projektu](https://github.com/TomaszGerstel/pycountant-simple.git)
 
 * * *
@@ -276,7 +278,7 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 
 #### Linki
 
-* [Działająca Aplikacja MyBalance](http://185.238.72.254/mybalance/).
+* [Działająca Aplikacja MyBalance](http://185.238.72.254/mybalance/)
 
 * * *
 

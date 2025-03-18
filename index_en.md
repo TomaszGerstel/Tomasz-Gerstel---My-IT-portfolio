@@ -71,32 +71,33 @@ Technological characteristics:
 ```
 Application that allows learning and testing by completing 'quizzes',
  e.g. related to learning Java programming or any other topic.
-Currently, sample quizzes related to learning Java are available, 
-the results are not recorded and there is no possibility or need to log in to the service.
+Currently, there are sample quizzes available related to learning Java, 
+there is no possibility or need to log in to the service. Only the time of completing the test is recorded.
 
 #### Operation
 
-The application displays a list of available quizzes, clicking on the selected one starts the quiz 
+The application displays a list of available quizzes, clicking on the selected one starts the quiz
 (loads questions with answers). After selecting the answer, 
-the quiz should be sent to the 'backend' to receive information about the result 
-(currently without details about which specific answers were incorrect).
+the quiz should be sent to the 'backend' to receive information about the result.
+The result includes a rating (positive/negative), the number of correct answers and the duration time
+(counted from 'clicking' on the selected quiz in the 'backend' based on the generated 'session id').
+
+Along with the result, correct answers are also returned, thanks to which the 'frontend' implemented 
+a change in the color scheme, after the test is completed, of correct/incorrect answers in the form 
+(as well as entire questions depending on the answer rating).
 
 #### Technologies
 
 * The 'backend' part of the application was written in **Java** using the **Spring** framework;
-
 * The 'frontend' was created using the **Angular** framework (also using Bootstrap in view);
-
 * It uses the **MongoDB** non-relational database and the **Liquibase** tool for migration;
-
 * When writing tests, apart form Java and JUnit, the **Groovy** language and the **Spock** and **RestAssured** libraries were used;
 
 ![QuizMasterAppImage](quiz_master_01.jpg)
 
 #### Application Features
 
-* The concept of conducting various types of tests/quizzes using the 'backend' and database allows for:
-
+* The concept of conducting various types of tests/quizzes using the 'backend' and database allows&nbsp;for:
 	* ensuring high quality results, because the data sent with questions to the 'frontend' does not contain results
 	 and the possibilities of manipulating the test execution time are limited because the time is counted in the 'backend';
 	* adding quizzes and expanding them;
@@ -115,7 +116,7 @@ the quiz should be sent to the 'backend' to receive information about the result
 
 #### Links
 
-* [Working application](http://185.238.72.254:4200)
+* [Working application](https://quizmaster.romananton.online)
 * [Project code](https://github.com/TomaszGerstel/QuizMaster.git)
 
 ## J-Countant
@@ -258,7 +259,7 @@ the tool allows you to determine the profit, the tax base and the amount of taxe
 
 #### Links
 
-* [The copy of the application on the server](http://py-countant.com/)
+* [App on server](https://pycountant.romananton.online)
 * [Project code](https://github.com/TomaszGerstel/pycountant-simple.git)
 
 * * *
@@ -287,7 +288,7 @@ My final project in Java Application Development. The app is a food/activity dia
 
 #### Links
 
-* [Working MyBalance App](http://185.238.72.254/mybalance/).
+* [Working MyBalance App](http://185.238.72.254/mybalance/)
 
 * * *
 
