@@ -4,7 +4,14 @@ layout: default
 
 ## Krótko o mnie
 
-Posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Developer w firmie z branży finansowej. Dodatkowo kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach), które np. wspierały w przeszłości moją pracę i pracę innych w zakładzie produkcyjnym. Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+W obecnej chwili (od czerwiec 2025) jestem programistą 'freelancerem' i, w ramach działalności gospodarczej (JDG), realizuję zadania związane z utrzymaniem,
+rozbudową i tworzeniem serwisów webowych, głównie z wykorzystaniem Javy i Pythona (plus rozwiązania 'frontendowe').
+
+Posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Developer w firmie z branży finansowej. 
+Dodatkowo kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach),
+które np. wspierały w przeszłości moją pracę i pracę innych w zakładzie produkcyjnym.
+Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe 
+w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 ## Technologie, w których pracuję
 
@@ -71,9 +78,15 @@ Obecnie są dostępne przykładowe quizy związane z nauką Javy, nie ma możliw
 
 #### Działanie
 
-W aplikacji jest wyświetlana lista dostępnych quizów, klikniecie na wybrany rozpoczyna quiz (ładuje pytania z odpowiedziami). Po wyborze odpowiedzi quiz należy przesłać do 'backendu', aby otrzymać informacje o wyniku. Na wynik zawiera się ocena (pozytywna/negatywna), liczba prawidłowych odpowiedzi i czas odpowiedzi (liczony od 'kliknięcia' na wybrany quiz w 'backendzie' na podstawie wygenerowanego 'session id').
+W aplikacji jest wyświetlana lista dostępnych quizów. Po wybraniu quizu należy kliknąć 'start quiz' 
+(załadują się pytania z odpowiedziami i quiz rozpocznie się). 
+Po wyborze odpowiedzi quiz należy przesłać do 'backendu', aby otrzymać informacje o wyniku. 
+Na wynik zawiera się ocena (pozytywna/negatywna), liczba prawidłowych odpowiedzi i czas odpowiedzi 
+(liczony od 'kliknięcia' na wybrany quiz w 'backendzie' na podstawie wygenerowanego 'session id').
 
-Wraz z wynikiem zwracane są także poprawne odpowiedzi, dzięki czemu na 'frontendzie' zaimplementowano zmianę kolorystyki, po zakonczonym teście, poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w zależności od oceny odpowiedzi).
+Wraz z wynikiem zwracane są także poprawne odpowiedzi, 
+dzięki czemu na 'frontendzie' zaimplementowano zmianę kolorystyki, po zakonczonym teście, 
+poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w zależności od oceny odpowiedzi).
 
 #### Technologie
 
@@ -370,6 +383,9 @@ odpowiedniej kolejności.
 * Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu.
 
 * Obecnie mam dwuletnie doświadczenie (luty 2023 - styczeń 2025) na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiadało profil Java, a w praktyce dotyczyło programowania także w języku Kotlin, oraz obejmowało też pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami. 
+
+* Czerwiec 2025: rozpoczęcie działalności godpodarczej (JDG) i realizacja zleceń związanych z tworzeniem, utrzymaniem 
+i rozbudową projektów głownie w językach Java i Python. Rzeczwisty zakres działąnia obejmuje: backend, frontend i deployment.
 
 [`wróć`](#krtko-o-mnie)
 

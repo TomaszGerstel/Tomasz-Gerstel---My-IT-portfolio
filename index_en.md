@@ -5,6 +5,8 @@ permalink: /en
 
 ## Briefly about me
 
+At the moment (from June 2025) I am a 'freelance' programmer and, as part of my business activity (JDG), I carry out tasks related to maintaining, expanding and creating web services, mainly using Java and Python (plus 'frontend' solutions).
+
 I have two years of experience as a Junior Software Developer in a 'fintech' company. In addition, I have several years of non-commercial experience in creating utility tools (also implemented on servers), which, for example, have supported my work and the work of others in the production plant in the past. I have "Technical and IT" studies (master) and Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
 
 ## Technologies I work with
@@ -76,10 +78,10 @@ there is no possibility or need to log in to the service. Only the time of compl
 
 #### Operation
 
-The application displays a list of available quizzes, clicking on the selected one starts the quiz
-(loads questions with answers). After selecting the answer, 
-the quiz should be sent to the 'backend' to receive information about the result.
-The result includes a rating (positive/negative), the number of correct answers and the duration time
+The application displays a list of available quizzes. After selecting a quiz, 
+click 'start quiz' (questions with answers will load and the quiz will start). 
+After selecting the answer, the quiz should be sent to the 'backend' to receive information about the result. 
+The result includes a grade (positive/negative), the number of correct answers and the answer time 
 (counted from 'clicking' on the selected quiz in the 'backend' based on the generated 'session id').
 
 Along with the result, correct answers are also returned, thanks to which the 'frontend' implemented 
@@ -379,6 +381,8 @@ A simple puzzle game where you move blocks to arrange them in a row in the corre
 * Years 2020/2021 Postgraduate studies: Programming Java applications, WSB University in Wrocław.
 
 * Currently, I have two years of experience (Since February 2023 to January 2025) as a Junior Software Developer in a company from the financial industry. The position held had a Java profile, and in practice also involved programming in the Kotlin language, and also included 'frontend' work with the Angular framework and several other technologies.
+
+* June 2025: start of business activity (JDG) and execution of orders related to creation, maintenance and expansion of projects mainly in Java and Python languages. The actual scope of my activity includes: backend, frontend and deployment.
 
 [`back`](#briefly-about-me)
 
