@@ -118,7 +118,7 @@ a change in the color scheme, after the test is completed, of correct/incorrect 
 
 #### Links
 
-* [Working application](https://quizmaster.romananton.online)
+* [Working application](https://quizmaster.tigerstel.xyz)
 * [Project code](https://github.com/TomaszGerstel/QuizMaster.git)
 
 ## J-Countant
@@ -261,7 +261,7 @@ the tool allows you to determine the profit, the tax base and the amount of taxe
 
 #### Links
 
-* [App on server](https://pycountant.romananton.online)
+* [App on server](https://pycountant.tigerstel.xyz)
 * [Project code](https://github.com/TomaszGerstel/pycountant-simple.git)
 
 * * *

@@ -117,7 +117,7 @@ poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w z
 
 #### Linki
 
-* [Działająca aplikacja](https://quizmaster.romananton.online)
+* [Działająca aplikacja](https://quizmaster.tigerstel.xyz)
 * [Kod projektu](https://github.com/TomaszGerstel/QuizMaster.git)
 
 * * *
@@ -262,7 +262,7 @@ narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wys
 
 #### Linki
 
-* [Aplikacja na serwerze](https://pycountant.romananton.online)
+* [Aplikacja na serwerze](https://pycountant.tigerstel.xyz)
 * [Kod projektu](https://github.com/TomaszGerstel/pycountant-simple.git)
 
 * * *
