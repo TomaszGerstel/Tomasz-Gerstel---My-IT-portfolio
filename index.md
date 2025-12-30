@@ -7,7 +7,9 @@ layout: default
 W obecnej chwili (od czerwiec 2025) jestem programistą 'freelancerem' i, w ramach działalności gospodarczej (JDG), realizuję zadania związane z utrzymaniem,
 rozbudową i tworzeniem serwisów webowych, głównie z wykorzystaniem Javy i Pythona (plus rozwiązania 'frontendowe').
 
-Posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Developer w firmie z branży finansowej. 
+Programuję głownie w języku Java i umiejętność tę mam potwierdzoną cenionym certyfikatem [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06D8FB131C5DD242ECD4DD0E1CDE8298A2D4811C304334AC13A5D125F60D1079#)
+
+Poza obecnym doświadczeniem w ramach JDG posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Developer w firmie z branży finansowej. 
 Dodatkowo kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach),
 które np. wspierały w przeszłości moją pracę i pracę innych w zakładzie produkcyjnym.
 Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe 
@@ -386,6 +388,8 @@ odpowiedniej kolejności.
 
 * Czerwiec 2025: rozpoczęcie działalności godpodarczej (JDG) i realizacja zleceń związanych z tworzeniem, utrzymaniem 
 i rozbudową projektów głownie w językach Java i Python. Rzeczwisty zakres działąnia obejmuje: backend, frontend i deployment.
+
+* Grudzień 2025: zaliczenie testu i zdobycie cenionego certyfikatu Oracle Certified Professional: Java SE 17 Developer.
 
 [`wróć`](#krtko-o-mnie)
 

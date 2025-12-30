@@ -7,7 +7,9 @@ permalink: /en
 
 At the moment (from June 2025) I am a 'freelance' programmer and, as part of my business activity (JDG), I carry out tasks related to maintaining, expanding and creating web services, mainly using Java and Python (plus 'frontend' solutions).
 
-I have two years of experience as a Junior Software Developer in a 'fintech' company. In addition, I have several years of non-commercial experience in creating utility tools (also implemented on servers), which, for example, have supported my work and the work of others in the production plant in the past. I have "Technical and IT" studies (master) and Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
+I program mainly in Java and I have this skill confirmed by a valued certificate [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06D8FB131C5DD242ECD4DD0E1CDE8298A2D4811C304334AC13A5D125F60D1079#)
+
+In addition to the current experience within sole proprietorship I have two years of experience as a Junior Software Developer in a 'fintech' company. In addition, I have several years of non-commercial experience in creating utility tools (also implemented on servers), which, for example, have supported my work and the work of others in the production plant in the past. I have "Technical and IT" studies (master) and Postgraduate studies in Programming in **Java** [`more`](#more-about-me)
 
 ## Technologies I work with
 
@@ -383,6 +385,8 @@ A simple puzzle game where you move blocks to arrange them in a row in the corre
 * Currently, I have two years of experience (Since February 2023 to January 2025) as a Junior Software Developer in a company from the financial industry. The position held had a Java profile, and in practice also involved programming in the Kotlin language, and also included 'frontend' work with the Angular framework and several other technologies.
 
 * June 2025: start of business activity (JDG) and execution of orders related to creation, maintenance and expansion of projects mainly in Java and Python languages. The actual scope of my activity includes: backend, frontend and deployment.
+
+* December 2025: Pass the test and earn the coveted Oracle Certified Professional: Java SE 17 Developer certification.
 
 [`back`](#briefly-about-me)
 
