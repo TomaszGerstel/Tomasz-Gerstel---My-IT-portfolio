@@ -16,7 +16,7 @@ In addition to the current experience within sole proprietorship I have two year
 - Java;
 - Kotlin;
 - JavaScript / TypeScript;
-- Python (basic);
+- Python;
 - PHP (basic);
 - HTML, CSS;
 - SQL;
@@ -26,7 +26,7 @@ In addition to the current experience within sole proprietorship I have two year
 - Spring Framework;
 - JakartaEE;
 - JDBC, JPA, Hibernate, CRUD;
-- Angular, AngularJS;
+- Angular, AngularJS, React;
 - MySQL, PostgreSQL, MongoDB;
 - JUnit, Spock, Mockito;
 - Docker;
@@ -64,31 +64,35 @@ In addition to the current experience within sole proprietorship I have two year
 
 # My Projects
 
-## Quiz Master
+## Quiz-Master
 
 ```
-This is a new project currently being developed (already having basic functionality)
+This is currently a project still under development (with basic functionality)
 Technological characteristics:
 	> Java, Spring, Angular,
 	> MongoDB, Liquibase,
 	> Groovy, Spock, JUnit
 ```
-Application that allows learning and testing by completing 'quizzes',
- e.g. related to learning Java programming or any other topic.
-Currently, there are sample quizzes available related to learning Java, 
-there is no possibility or need to log in to the service. Only the time of completing the test is recorded.
+The application that allows learning and testing by completing quizzes, for example, related to Java programming or, ultimately, any other topic.
+Sample quizzes related to Java learning are currently available. There's no need to log in to the service to take a quiz. The test time and score are recorded.
+After completing the test, you can review your results and validate all questions. 
+Basic quiz management options are now available, such as creating new quizzes and adding questions from an existing set.
+
+![QuizMasterAppImage](quiz_master_01.jpg)
 
 #### Operation
 
-The application displays a list of available quizzes. After selecting a quiz, 
-click 'start quiz' (questions with answers will load and the quiz will start). 
-After selecting the answer, the quiz should be sent to the 'backend' to receive information about the result. 
-The result includes a grade (positive/negative), the number of correct answers and the answer time 
-(counted from 'clicking' on the selected quiz in the 'backend' based on the generated 'session id').
+The application displays a list of available quizzes. After selecting a quiz (and optionally providing a name and email address), click 'start quiz'
+(questions with answers will load and the quiz will begin).
+After selecting an answer, the quiz is sent to the backend, and the score is returned.
+The score includes a grade (pass/fail), the number of correct answers, a percentage score, and the answer time
+(calculated from the click on the selected quiz in the backend based on the generated 'session ID').
 
-Along with the result, correct answers are also returned, thanks to which the 'frontend' implemented 
-a change in the color scheme, after the test is completed, of correct/incorrect answers in the form 
-(as well as entire questions depending on the answer rating).
+Along with the score, explanations for the questions and correct answers are returned.
+This allows the frontend to change the color scheme after a quiz is completed,
+correct/incorrect answers in the form (and entire questions depending on the grade).
+
+You can create your own quizzes from existing questions.
 
 #### Technologies
 
@@ -97,7 +101,7 @@ a change in the color scheme, after the test is completed, of correct/incorrect 
 * It uses the **MongoDB** non-relational database and the **Liquibase** tool for migration;
 * When writing tests, apart form Java and JUnit, the **Groovy** language and the **Spock** and **RestAssured** libraries were used;
 
-![QuizMasterAppImage](quiz_master_01.jpg)
+![QuizMasterAppImage](quiz_master_02.jpg)
 
 #### Application Features
 
@@ -109,19 +113,53 @@ a change in the color scheme, after the test is completed, of correct/incorrect 
 	* each time 'mixing' the order of questions and answers within a question;
 	* editing parameters, such as the test pass rate.
 
+![QuizMasterAppImage2](quiz_master_03.jpg)
+
 #### Planned Functionalities
 
 * User registration and login;
-* Counting down the quiz duration and returning detailed information about the result;
-* Recording results;
-* Possibility to add and edit quizzes;
+* Quiz statistics and results summaries;
+* Extensive quiz addition and editing capabilities;
+* Ability to comment on questions;
+* Results sent to email
 
-![QuizMasterAppImage2](quiz_master_02.jpg)
+![QuizMasterAppImage2](quiz_master_04.jpg)
 
 #### Links
 
 * [Working application](https://quizmaster.tigerstel.xyz)
 * [Project code](https://github.com/TomaszGerstel/QuizMaster.git)
+
+## My-Books
+
+This application offers simple functionality, yet with potential for development. In its current form, it allows users to search and add books available via the GoogleBooks API to their collection. 
+Added items can then be edited, deleted, or marked as read.
+
+![MyBooksAppImage](my_books_01.jpg)
+
+#### Technologies
+
+* The backend application is written in **Java** using the **Spring** framework; 
+* It uses the **PostgreSQL** relational database; 
+* The frontend layer uses the **React** framework.
+* Other technologies: **Liquibase**, **Docker**, **Gradle**, JWT
+
+#### Features
+
+* User login and registration;
+* Search for books available in Google Books;
+* Results pagination;
+* Adding books to your book list;
+* Ability to view, delete, and mark books as read;
+
+![MyBooksAppImage](my_books_02.jpg)
+
+#### Links
+
+* [Working App](https://mybooks.tigerstel.xyz/)
+* [Project code](https://github.com/TomaszGerstel/MyBooks.git)
+
+* * *
 
 ## J-Countant
 
@@ -293,52 +331,6 @@ My final project in Java Application Development. The app is a food/activity dia
 #### Links
 
 * [Working MyBalance App](http://185.238.72.254/mybalance/)
-
-* * *
-
-## Production Execution Calculator
-
-A simple tool that calculates the estimated production lead time and other values based on inputs such as machine cycle time, production volume and product weight. Useful for daily production supervision in a packaging production plant in the "injection-blowing" process.
-
-![CalcAppImage](calc.jpg)
-
-#### Technologies
-
-* HTML, CSS, JvaScript;
-* Calculations in JavaScript;
-
-#### Functionalities
-
-* The ability to quickly calculate the production and obtain a real time of execution on the website without the need to perform complex calculations (such as "manually" converting seconds to hours and minutes and adding to the current time);
-* Obtaining additional information, such as: efficiency and weight of the raw material needed for a given production.
-
-#### Links
-
-* [Working tool](http://185.238.72.254/kalkulator)
-* [Tool code](https://github.com/TomaszGerstel/kalkulator.git)
-
-* * *
-
-## Production Execution Calculator - Android
-
-Android version of the tool that calculates the estimated production lead time and other values based on inputs such as machine cycle time, production volume and product weight. The tool is useful for daily production supervision in a packaging production plant in the "injection-blowing" process.
-
-![AndroidCalcAppImage](calc_for_android.jpg)
-
-#### Technologies
-
-* Java with specialized classes for Android;
-* User interface in XML tags;
-
-#### Functionalities
-
-* Possibility to quickly calculate the production execution and obtain a specific execution time in the downloaded and installed offline tool without the need to perform complex calculations (such as "manually" converting seconds to hours and minutes and adding to the current hour);
-* Obtaining additional information, such as: efficiency and weight of the raw material needed for a given production.
-
-#### Links
-
-* [Apk with tool](http://185.238.72.254/kalkulator_android/kalkulator_android_1.0.apk)
-* [Tool code](https://github.com/TomaszGerstel/calc_for_android.git)
 
 * * *
 

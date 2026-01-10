@@ -7,7 +7,8 @@ layout: default
 W obecnej chwili (od czerwiec 2025) jestem programistą 'freelancerem' i, w ramach działalności gospodarczej (JDG), realizuję zadania związane z utrzymaniem,
 rozbudową i tworzeniem serwisów webowych, głównie z wykorzystaniem Javy i Pythona (plus rozwiązania 'frontendowe').
 
-Programuję głownie w języku Java i umiejętność tę mam potwierdzoną cenionym certyfikatem [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06D8FB131C5DD242ECD4DD0E1CDE8298A2D4811C304334AC13A5D125F60D1079#)
+Programuję głownie w języku Java i umiejętność tę mam potwierdzoną cenionym certyfikatem <br>
+ [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06D8FB131C5DD242ECD4DD0E1CDE8298A2D4811C304334AC13A5D125F60D1079#)
 
 Poza obecnym doświadczeniem w ramach JDG posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Developer w firmie z branży finansowej. 
 Dodatkowo kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach),
@@ -20,7 +21,7 @@ w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 - Java;
 - Kotlin;
 - JavaScript / TypeScript;
-- Python (podstawowy);
+- Python;
 - PHP (podstawowy);
 - HTML, CSS;
 - SQL;
@@ -30,7 +31,7 @@ w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 - Spring Framework;
 - JakartaEE;
 - JDBC, JPA, Hibernate, CRUD;
-- Angular, AngularJS;
+- Angular, AngularJS, React;
 - MySQL, PostgreSQL, MongoDB;
 - JUnit, Spock, Mockito;
 - Docker;
@@ -66,29 +67,35 @@ w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 # Moje Projekty
 
-## Quiz Master
+## Quiz-Master
 
 ```
-Jest to obecnie rozwijany nowy projekt (posiadający już podstawową funkcjonalność)
+Jest to obecnie wciąż rozwijany projekt (posiadający podstawową funkcjonalność)
 Charakterystyka technologiczna: 
 	> Java, Spring, Angular, 
 	> MongoDB, Liquibase,
 	> Groovy, Spock, JUnit
 ```
-Aplikacja dająca możliwość nauki i sprawdzenia się poprzez przerabianie 'quizów' np. związanych z nauką programowania w Javie albo w dowolnym innym temacie.
-Obecnie są dostępne przykładowe quizy związane z nauką Javy, nie ma możliwości ani potrzeby logowania się do serwisu. Rejestrowany jest jedynie czas wykonania testu. 
+Aplikacja dająca możliwość nauki i sprawdzenia się poprzez przerabianie 'quizów' np. związanych z nauką programowania w Javie albo, docelowo w dowolnym innym temacie.
+Obecnie są dostępne przykładowe quizy związane z nauką Javy. Nie ma potrzeby logowania się do serwisu w celu wykonania quizu. Rejestrowany jest czas wykonania testu oraz punktacja.
+Po zakończeniu testu można zapoznać się z wynikiem oraz z walidacją wszystkich pytań. Obecnie istnieje podstawowa możliwość zarządzania quizami, jak tworzenie nowych quizów 
+i dodawanie do nich pytań z istniejącej puli.
+
+![QuizMasterAppImage](quiz_master_01.jpg)
 
 #### Działanie
 
-W aplikacji jest wyświetlana lista dostępnych quizów. Po wybraniu quizu należy kliknąć 'start quiz' 
-(załadują się pytania z odpowiedziami i quiz rozpocznie się). 
-Po wyborze odpowiedzi quiz należy przesłać do 'backendu', aby otrzymać informacje o wyniku. 
-Na wynik zawiera się ocena (pozytywna/negatywna), liczba prawidłowych odpowiedzi i czas odpowiedzi 
+W aplikacji jest wyświetlana lista dostępnych quizów. Po wybraniu quizu należy (i opcjonalnym podaniu imienia oraz emaila) kliknąć 'start quiz' 
+(załadują się pytania z odpowiedziami i quiz się rozpocznie). 
+Po wyborze odpowiedzi quiz jest przesyłany do 'backendu' i zwracana jest informacja o wyniku. 
+Na wynik zawiera się ocena (pozytywna/negatywna), liczba prawidłowych odpowiedzi, wynik procentowy i czas odpowiedzi 
 (liczony od 'kliknięcia' na wybrany quiz w 'backendzie' na podstawie wygenerowanego 'session id').
 
-Wraz z wynikiem zwracane są także poprawne odpowiedzi, 
+Wraz z wynikiem zwracane są wyjaśnienia do pytań oraz poprawne odpowiedzi, 
 dzięki czemu na 'frontendzie' zaimplementowano zmianę kolorystyki, po zakonczonym teście, 
 poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w zależności od oceny odpowiedzi).
+
+Istnitje możliwość tworzenia własnych quizów z istniejących pytań.
 
 #### Technologie
 
@@ -97,7 +104,7 @@ poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w z
 * Korzysta z nierelacyjnej bazy danych **MongoDB** i narzędzia **Liquibase** do migracji;
 * Pisząc testy korzystano (poza **Java**) z jezyka **Groovy** oraz z biblioteki **Spock** oraz **RestAssured**;
 
-![QuizMasterAppImage](quiz_master_01.jpg)
+![QuizMasterAppImage](quiz_master_02.jpg)
 
 #### Cechy aplikacji
 
@@ -108,19 +115,53 @@ poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w z
 	* każdorazowe 'mieszanie' kolejności pytań oraz odpowiedzi w ramach pytania;
 	* edycję parametrów, jak np. współczynnika zaliczenia testu.
 
+![QuizMasterAppImage2](quiz_master_03.jpg)
+
 #### Planowane Funkcjonalności
 
 * Rejestracja i logowanie użytkownika;
-* Odliczanie czasu trawania quizu i zwracanie szczegółowych informacji na temat wyniku;
-* Rejestrowanie wyników;
-* Możliwość dodawania quizów i edycji;
+* Statystyki i podsumowania wyników quizów;
+* Rozbudowana możliwość dodawania quizów i edycji;
+* Możliwość komentowania pytań;
+* Przesyłanie wyników na maila
 
-![QuizMasterAppImage2](quiz_master_02.jpg)
+![QuizMasterAppImage2](quiz_master_04.jpg)
 
 #### Linki
 
 * [Działająca aplikacja](https://quizmaster.tigerstel.xyz)
 * [Kod projektu](https://github.com/TomaszGerstel/QuizMaster.git)
+
+* * *
+
+## My-Books
+
+Aplikacja z prostą funkcjonalnością, jednak z potencjałem na rozwój. W obecnym kształcie pozwala na wyszukiwanie i dodawanie książek dostępnych na API GoogleBooks do swojej kolekcji.
+Następnie, dodane pozycje można edytować, usuwać lub oznaczać jako przeczytane. 
+
+![MyBooksAppImage](my_books_01.jpg)
+
+#### Technologie
+
+* Aplikacja w części backendowej napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
+* Korzysta z relacyjnej bazy danych **PostgreSQL**;
+* W warstwie frontendowej wykorzystano framework **React**
+* Pozostałe technologie: **Liquibase**, **Docker**, **Gradle**, JWT
+
+#### Funkcjonalności
+
+* Logowanie i rejestracja użytkowników;
+* Wyszukiwanie książek dostępnych w GoogleBooks;
+* Paginacja wyników;
+* Dodawanie książek do listy swoich książek;
+* Możliwość przeglądania listy książek, usuwania i oznaczania jako przeczytane;
+
+![MyBooksAppImage](my_books_02.jpg)
+
+#### Linki
+
+* [Działająca Aplikacja](https://mybooks.tigerstel.xyz/)
+* [Kod projektu](https://github.com/TomaszGerstel/MyBooks.git)
 
 * * *
 
@@ -294,52 +335,6 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 #### Linki
 
 * [Działająca Aplikacja MyBalance](http://185.238.72.254/mybalance/)
-
-* * *
-
-## Kalkulator Realizacji Produkcji
-
-Proste narzędzie obliczające przewidywany czas realizacji produkcji i inne wartości na podstawie wprowadzonych danych, jak czas cyklu maszyny, wielkość produkcji oraz waga produktu. Przydatne do codziennego nadzoru produkcji w zakładzie produkującym opakowania w procesie "wtrysko-rozdmuchu".
-
-![CalcAppImage](calc.jpg)
-
-#### Technologie
-
-* HTML, CSS;
-* Obliczenia w JavaScript;
-
-#### Funkcjonalności
-
-* Możliwość szybkiego obliczenia realizacji produkcji i uzyskania konkretnej godziny realizacji na stronie internetowej bez konieczności wykonywania skomplikowanych wyliczeń (jak chociażby "ręcznego" przeliczania sekund na godziny i minuty oraz dodawania do godziny obecnej);
-* Uzyskanie dodatkowych informacji, jak: wydajność i waga potrzebnego surowca do danej produkcji.
-
-#### Linki
-
-* [Działające narzędzie](http://185.238.72.254/kalkulator)
-* [Kod narzędzia](https://github.com/TomaszGerstel/kalkulator.git)
-
-* * *
-
-## Kalkulator Realizacji Produkcji – Android
-
-Wersja na systemy Android narzędzia obliczającego przewidywany czas realizacji produkcji i inne wartości na podstawie wprowadzonych danych, jak czas cyklu maszyny, wielkość produkcji oraz waga produktu. Narzędzie jest przydatne do codziennego nadzoru produkcji w zakładzie produkującym opakowania w procesie "wtrysko-rozdmuchu".
-
-![AndroidCalcAppImage](calc_for_android.jpg)
-
-#### Technologie
-
-* Java z odpowiednimi klasami dla Androida;
-* Interfejs użytkownika w odpowiednich znacznikach XML;
-
-#### Funkcjonalności
-
-* Możliwość szybkiego obliczenia realizacji produkcji i uzyskania konkretnej godziny realizacji w pobranym i zainstalowanym narzędziu ofline bez konieczności wykonywania skomplikowanych wyliczeń (jak chociażby "ręcznego" przeliczania sekund na godziny i minuty oraz dodawania do godziny obecnej);
-* Uzyskanie dodatkowych informacji, jak: wydajność i waga potrzebnego surowca do danej produkcji.
-
-#### Linki
-
-* [Narzędzie do pobrania](http://185.238.72.254/kalkulator_android/kalkulator_android_1.0.apk)
-* [Kod narzędzia](https://github.com/TomaszGerstel/calc_for_android.git)
 
 * * *
 
