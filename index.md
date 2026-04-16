@@ -240,7 +240,7 @@ Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur 
 
 #### Linki
 
-* [Aplikacja na serwerze](http://185.238.72.254/troubleshooting)
+* [Aplikacja na serwerze](http://185.238.72.254:8080/troubleshooting)
 * [Kod projektu](https://github.com/TomaszGerstel/troubleshooting.git)
 
 * * *
@@ -334,7 +334,7 @@ Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jes
 
 #### Linki
 
-* [Działająca Aplikacja MyBalance](http://185.238.72.254/mybalance/)
+* [Działająca Aplikacja MyBalance](http://185.238.72.254:8080/mybalance/)
 
 * * *
 

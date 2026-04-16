@@ -236,7 +236,7 @@ An application supporting a database of quality problems (typical defects and pr
 
 #### Lins
 
-* [App on server](http://185.238.72.254/troubleshooting)
+* [App on server](http://185.238.72.254:8080/troubleshooting)
 * [Project code](https://github.com/TomaszGerstel/troubleshooting.git)
 
 * * *
@@ -330,7 +330,7 @@ My final project in Java Application Development. The app is a food/activity dia
 
 #### Links
 
-* [Working MyBalance App](http://185.238.72.254/mybalance/)
+* [Working MyBalance App](http://185.238.72.254:8080/mybalance/)
 
 * * *
 
