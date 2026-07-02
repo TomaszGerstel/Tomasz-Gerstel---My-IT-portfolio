@@ -3,18 +3,19 @@ layout: default
 ---
 
 ## Krótko o mnie
+Jestem programistą Java z doświadczeniem komercyjnym w tworzeniu i rozwijaniu aplikacji webowych. 
+Specjalizuję się głównie w backendzie opartym o Spring Framework, ale pracuję również fullstackowo,
+wykorzystując Angular (oraz inne technologie frontendowe), a także w dużym stopniu ostatnio Python.
 
-W obecnej chwili (od czerwiec 2025) jestem programistą 'freelancerem' i, w ramach działalności gospodarczej (JDG), realizuję zadania związane z utrzymaniem,
-rozbudową i tworzeniem serwisów webowych, głównie z wykorzystaniem Javy i Pythona (plus rozwiązania 'frontendowe').
+Posiadam 2 lata doświadczenia komercyjnego jako Software Developer w branży finansowej oraz obecnie realizuję projekty w modelu freelance,
+obejmujące rozwój, utrzymanie i wdrażanie aplikacji webowych.
 
-Programuję głownie w języku Java i umiejętność tę mam potwierdzoną cenionym certyfikatem <br>
- [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06D8FB131C5DD242ECD4DD0E1CDE8298A2D4811C304334AC13A5D125F60D1079#)
+Na co dzień pracuję z Java, Spring Boot, Python, SQL, Dockerem oraz technologiami frontendowymi. 
+Dodatkowo rozwijam własne projekty, w których eksperymentuję z&nbsp;Pythonem, AI oraz automatyzacją przetwarzania danych i obrazów.
 
-Poza obecnym doświadczeniem w ramach JDG posiadam dwuletnie doświadczenie komercyjne na stanowisku Junior Software Developer w firmie z branży finansowej. 
-Dodatkowo kilkuletnie doświadczenie niekomercyjne związane z tworzeniem projektów narzędzi użytkowych (także wdrożonych na serwerach),
-które np. wspierały w przeszłości moją pracę i pracę innych w zakładzie produkcyjnym.
-Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe 
-w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
+Posiadam certyfikat [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06D8FB131C5DD242ECD4DD0E1CDE8298A2D4811C304334AC13A5D125F60D1079#)
+
+Mam wykształcenie Techniczno-Informatyczne (mgr inż.) oraz Studia podyplomowe w&nbsp;zakresie Programowania w języku Java [`więcej`](#wicej-o-mnie)
 
 ## Technologie, w których pracuję
 
@@ -22,7 +23,6 @@ w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 - Kotlin;
 - JavaScript / TypeScript;
 - Python;
-- PHP (podstawowy);
 - HTML, CSS;
 - SQL;
 
@@ -30,72 +30,46 @@ w zakresie Programowania w języku **Java** [`więcej`](#wicej-o-mnie)
 
 - Spring Framework;
 - JakartaEE;
+- REST;
 - JDBC, JPA, Hibernate, CRUD;
 - Angular, AngularJS, React;
+- Django, FastAPI;
 - MySQL, PostgreSQL, MongoDB;
-- JUnit, Spock, Mockito;
-- Docker;
-- Jenkins
+- JUnit, Spock, Mockito, Liquibase;
+- Docker, Git, GitHub, GitLab, Dokploy, Jenkins;
+- Grafana, Prometheus, ELK;
 
 ## Umiejętności
 
 * Znajomość języka Java oraz Kotlin na poziomie średniozaawansowanym oraz doświadczenie w rozwijaniu aplikacji w tych językach;
-* Umiejętność pracy z HTML, CSS, JavaScript a także z frameworkami Angular i AngularJS oraz komercyjne doświadczenie w rozwijaniu serwisów z wykorzystaniem Angular;
-* Znajomość innych języków w stopniu podstawowym, jak Python, PHP;
-* Wiedza i doświadczenie z zakresu obsługi relacyjnych baz danych i SQL, a także, w mniejszym stopniu z bazami nierelacyjnymi, jak MongoDB;
-* Znajomość narzędzi kontroli wersji oraz ciągłej integracji (CI/CD) (GIT, Jenkins, Docker);
-* Doświadczenie i umiejętność współpracy w zespole programistów z wykorzystaniem systemów kontroli wersji;
+* Umiejętność pracy z HTML, CSS, JavaScript a także z frameworkami Angular i&nbsp;AngularJS oraz komercyjne doświadczenie w rozwijaniu serwisów 
+z&nbsp;wykorzystaniem Angular;
+* Znajomość Python oraz doświadczenie w tworzeniu, rozwijaniu i utrzymaniu aplikacji w tym języku, głównie w ramach działalności 'freelance';
+* Wiedza i doświadczenie z zakresu obsługi relacyjnych baz danych i SQL, a&nbsp;także z&nbsp;bazami nierelacyjnymi, jak MongoDB;
+* Znajomość narzędzi kontroli wersji oraz ciągłej integracji (CI/CD) (GIT, Jenkins, Docker, Dokploy);
+* Doświadczenie i umiejętność współpracy w zespole programistów z użyciem systemów kontroli wersji;
 * Praktyczne doświadczenie pracy w metodykach Agile (Jira, Confluence).
 
 ## Umiejętności w praktyce
 
-* Praca w odpowiednim środowisku programistycznym (jak IntelliJ, PyCharm, SpringToolSuite, AndroidStudio albo VisualStudioCode), wybór odpowiednich zależności i umiejętność stworzenia w nim projektu w języku **Java**, **Kotlin**, **Python** lub **JavaScript** (aplikacje tradycyjne lub webowe, a także na systemy Android);
-
-* Utworzenie bazy danych, która będzie współpracowała z projektem: ustalenie połączenia z bazą, wykorzystanie technologii mapowania obiektowo-relacyjnego w komunikacji między logiką aplikacji a bazą danych;
-
-* Utworzenie warstwy widoku aplikacji, z wykorzystaniem technologii JPA (JakartaServerPages) lub szablonów (jak Thymeleaf), albo zastosowaniem bardziej zaawansowanego rozwiązania korzystając z frameworku Angular lub AngularJS (niezależna aplikacja);
-
-* Umiejętność pisania testów do tworzonej aplikacji oraz zadbania o właściwą walidację danych przetwarzanych przez aplikację (JUnit, Mockito, Spock);
-
-* Umiejętność implementacji procesu autoryzacji w tworzonej aplikacji (także z wykorzystaniem bazy danych);
-
-* Instalacja niezbędnego oprogramowania na serwerze oraz wdrożenie aplikacji na serwer pod systemem Debian (także przypisanie domeny); 
-
-* Korzystanie z narzędzi kontroli wersji jak GIT, z serwisu GitHub (lub Bitbucket) do współpracy z innymi, jak i do procesu ciągłej integracji oprogramowania (praca z narzędziem Jenkins);
+* Projektowanie REST API
+* Spring Boot / Spring Security
+* Relacyjne i nierelacyjne bazy danych
+* Testy jednostkowe i integracyjne
+* Docker i deployment VPS
+* Integracje z zewnętrznymi API
+* CI/CD
+* Authentication & Authorization
+* Fullstack development
 
 * * *
 
 # Moje Projekty
+<br>
 
 ## Quiz-Master
 
-```
-Jest to obecnie wciąż rozwijany projekt (posiadający podstawową funkcjonalność)
-Charakterystyka technologiczna: 
-	> Java, Spring, Angular, 
-	> MongoDB, Liquibase,
-	> Groovy, Spock, JUnit
-```
-Aplikacja dająca możliwość nauki i sprawdzenia się poprzez przerabianie 'quizów' np. związanych z nauką programowania w Javie albo, docelowo w dowolnym innym temacie.
-Obecnie są dostępne przykładowe quizy związane z nauką Javy. Nie ma potrzeby logowania się do serwisu w celu wykonania quizu. Rejestrowany jest czas wykonania testu oraz punktacja.
-Po zakończeniu testu można zapoznać się z wynikiem oraz z walidacją wszystkich pytań. Obecnie istnieje podstawowa możliwość zarządzania quizami, jak tworzenie nowych quizów 
-i dodawanie do nich pytań z istniejącej puli.
-
-![QuizMasterAppImage](quiz_master_01.jpg)
-
-#### Działanie
-
-W aplikacji jest wyświetlana lista dostępnych quizów. Po wybraniu quizu należy (i opcjonalnym podaniu imienia oraz emaila) kliknąć 'start quiz' 
-(załadują się pytania z odpowiedziami i quiz się rozpocznie). 
-Po wyborze odpowiedzi quiz jest przesyłany do 'backendu' i zwracana jest informacja o wyniku. 
-Na wynik zawiera się ocena (pozytywna/negatywna), liczba prawidłowych odpowiedzi, wynik procentowy i czas odpowiedzi 
-(liczony od 'kliknięcia' na wybrany quiz w 'backendzie' na podstawie wygenerowanego 'session id').
-
-Wraz z wynikiem zwracane są wyjaśnienia do pytań oraz poprawne odpowiedzi, 
-dzięki czemu na 'frontendzie' zaimplementowano zmianę kolorystyki, po zakonczonym teście, 
-poprawnych/nieprawidłowych odpowiedzi w formularzu (a także całych pytań w zależności od oceny odpowiedzi).
-
-Istnitje możliwość tworzenia własnych quizów z istniejących pytań.
+Rozwijana platforma edukacyjna umożliwiająca tworzenie oraz rozwiązywanie quizów tematycznych. Projekt został zaprojektowany jako skalowalne rozwiązanie fullstackowe z backendową walidacją odpowiedzi, rejestrowaniem wyników oraz możliwością dalszej rozbudowy.
 
 #### Technologie
 
@@ -104,28 +78,34 @@ Istnitje możliwość tworzenia własnych quizów z istniejących pytań.
 * Korzysta z nierelacyjnej bazy danych **MongoDB** i narzędzia **Liquibase** do migracji;
 * Pisząc testy korzystano (poza **Java**) z jezyka **Groovy** oraz z biblioteki **Spock** oraz **RestAssured**;
 
-![QuizMasterAppImage](quiz_master_02.jpg)
+<div class="project-image">
+  <img src="quiz_master_01.jpg" alt="QuizMaster">
+</div>
 
-#### Cechy aplikacji
+#### Funkcjonalności
 
-* Koncepcja przeprowadzania różnego rodzaju testów/quizów z wykorzystaniem 'backendu' i bazy danych pozwala na:
-	* zapewnienie wysokiej jakości wyników, ponieważ przesyłane dane z pytaniami do 'frontendu' nie zawierają wyników oraz ograniczone są możliwości manipulacji czasem wykonania testu bo czas ten jest liczony w 'backendzie';
-	* dodawanie quizów oraz ich rozbudowę;
-	* rejestrację wyników;
-	* każdorazowe 'mieszanie' kolejności pytań oraz odpowiedzi w ramach pytania;
-	* edycję parametrów, jak np. współczynnika zaliczenia testu.
+* wykonywanie quizów bez konieczności logowania;
+* rejestracja czasu oraz wyników;
+* backendowa walidacja odpowiedzi;
+* dynamiczne mieszanie pytań i odpowiedzi;
+* zarządzanie quizami oraz pytaniami;
+* generowanie podsumowań wyników.
 
-![QuizMasterAppImage2](quiz_master_03.jpg)
+<div class="project-image">
+  <img src="quiz_master_02.jpg" alt="QuizMaster">
+</div>
 
-#### Planowane Funkcjonalności
+#### Planowany rozwój
 
-* Rejestracja i logowanie użytkownika;
-* Statystyki i podsumowania wyników quizów;
-* Rozbudowana możliwość dodawania quizów i edycji;
-* Możliwość komentowania pytań;
-* Przesyłanie wyników na maila
+* konta użytkowników;
+* statystyki i historia wyników;
+* komentarze do pytań;
+* rozbudowany panel administracyjny.
 
-![QuizMasterAppImage2](quiz_master_04.jpg)
+<div class="project-image">
+  <img src="quiz_master_03.jpg" alt="QuizMaster">
+  <img src="quiz_master_04.jpg" alt="QuizMaster">
+</div>
 
 #### Linki
 
@@ -134,52 +114,15 @@ Istnitje możliwość tworzenia własnych quizów z istniejących pytań.
 
 * * *
 
-## My-Books
-
-Aplikacja z prostą funkcjonalnością, jednak z potencjałem na rozwój. W obecnym kształcie pozwala na wyszukiwanie i dodawanie książek dostępnych na API GoogleBooks do swojej kolekcji.
-Następnie, dodane pozycje można edytować, usuwać lub oznaczać jako przeczytane. 
-
-![MyBooksAppImage](my_books_01.jpg)
-
-#### Technologie
-
-* Aplikacja w części backendowej napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
-* Korzysta z relacyjnej bazy danych **PostgreSQL**;
-* W warstwie frontendowej wykorzystano framework **React**
-* Pozostałe technologie: **Liquibase**, **Docker**, **Gradle**, JWT
-
-#### Funkcjonalności
-
-* Logowanie i rejestracja użytkowników;
-* Wyszukiwanie książek dostępnych w GoogleBooks;
-* Paginacja wyników;
-* Dodawanie książek do listy swoich książek;
-* Możliwość przeglądania listy książek, usuwania i oznaczania jako przeczytane;
-
-![MyBooksAppImage](my_books_02.jpg)
-
-#### Linki
-
-* [Działająca Aplikacja](https://mybooks.tigerstel.xyz/)
-* [Kod projektu](https://github.com/TomaszGerstel/MyBooks.git)
-
-* * *
-
 ## J-Countant
 
-Aplikacja pomocna w zarządzaniu finansami w małej działalności gospodarczej (zmodyfikowana wersja aplikacji napisanej pierwotnie w języku Python, 
-z wykorzystaniem innych technologii). Na narzędzie składają się dwie odrębne aplikacje (osobno zdefiniowano 'frontend' i odrębnie 'backend').
+Aplikacja wspierająca zarządzanie finansami w małej działalności gospodarczej. System umożliwia ewidencję dokumentów, analizę transakcji oraz automatyczne wyliczanie podatków i bilansów finansowych.
 
-Po wprowadzeniu danych o rzeczywistych transakcjach przeprowadzanych w prowadzonej działalności, 
-narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wysokość podatków koniecznych do odprowadzenia, zależną od typu opodatkowania.
+Projekt oparty o architekturę REST z oddzielnym frontendem i backendem.
 
-#### Charakterystyka
-
-Aplikacja napisana w architekturze **REST**, pracująca na danych zapisywanych w bazie **PostgreSQL**. 
-Część 'back-endowa' została aktualnie zaimplementowana wraz z bazą danych w kontenerach **Dockera** na serwerze VPS pod systemem **Debian**.
-Część 'frontendową', komunikującą się z częścią 'back-endową', umieszczono w innej lokalizacji z wykorzystaniem usługi oferowanej przez Amazon Web Services (**AWS**).
-
-![J-CountantAppImage](jcountant_01.jpg)
+<div class="project-image">
+  <img src="jcountant_01.jpg" alt="JCountant">
+</div>
 
 #### Technologie
 
@@ -193,24 +136,15 @@ Część 'frontendową', komunikującą się z częścią 'back-endową', umiesz
 
 #### Funkcjonalności
 
-* Rejestracja i logowanie użytkownika;
-* Dodawanie i usuwanie rachunków/faktur, a następnie zatwierdzanie na ich podstawie transakcji (wychodzących lub przychodzących);
-* Możliwość zdefiniowania transakcji specjalnej, jak opłata podatków lub wypłata wynagrodzenia;
-* Obliczenia bilansu:
-	* stan finansów;
-	* przychody brutto;
-	* koszta;
-	* bilans netto;
-	* vat;
-	* podatek dochodowy do zapłacenia;
-	* profit zależny od sposobu opodatkowania;
-	* opłacone podatki, podatki pozostałe;
-	* wypłacony profit
-* Wgląd w ostatnie transakcje, wyszukiwanie faktur i transakcji;
-* Generowanie obliczeń dla wybranego zakresu dat;
-* Obliczenia z danego miesiąca lub miesiąca poprzedniego
+* logowanie i rejestracja użytkowników;
+* zarządzanie fakturami i transakcjami;
+* wyliczanie podatków i bilansu;
+* analiza finansowa dla zakresów dat;
+* generowanie raportów finansowych.
 
-![J-CountantAppImage2](jcountant_02.jpg)
+<div class="project-image">
+  <img src="jcountant_02.jpg" alt="JCountant">
+</div>
 
 #### Linki
 
@@ -220,36 +154,91 @@ Część 'frontendową', komunikującą się z częścią 'back-endową', umiesz
 
 * * *
 
-## Baza Problemów Jakościowych
+## AI Image Processing Platform
 
-Aplikacja obsługująca bazę problemów jakościowych (typowych wad i procedur postępowania) występujących w wyspecjalizowanym zakładzie produkującym butelki z tworzywa sztucznego.
+Platforma do wsadowego przetwarzania obrazów z wykorzystaniem AI, stworzona do automatyzacji obróbki zdjęć produktowych, katalogowych oraz marketplace’owych.
 
-![TroublesAppImage](troubles_app.jpg)
+Aplikacja umożliwia jednoczesne przetwarzanie wielu obrazów poprzez operacje takie jak resize, konwersja formatów, usuwanie tła, AI upscaling oraz poprawę jakości.
+
+<div class="project-image">
+  <img src="img_processing_01.jpg" alt="ImagesProcessingTool">
+</div>
 
 #### Technologie
 
-* Aplikacja napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
-* Korzysta z relacyjnej bazy danych **MySQL**;
-* Warstwa widoku opracowana z wykorzystaniem **AngularJS**
+* Python
+* FastAPI
+* Pillow
+* OpenCV
+
+<div class="project-image">
+  <img src="img_processing_02.jpg" alt="ImagesProcessingTool">
+</div>
 
 #### Funkcjonalności
 
-* Możliwość łatwego przeglądania i wyszukiwania dostępnych problemów jakościowych w bazie oraz wglądu w typowe przyczyny danego problemu oraz proponowane jego rozwiązania;
-* Zaimplementowano usługę rejestracji i logowania;
-* Dodano możliwość wprowadzania własnych przyczyn i rozwiązań danego problemu zalogowanemu użytkownikowi;
+* upload pojedynczych plików i ZIP;
+* batch image processing;
+* resize z zachowaniem proporcji;
+* konwersja JPEG / PNG / WEBP / AVIF;
+* lokalne usuwanie tła;
+* zaawansowane AI background removal;
+* AI upscaling;
+* quality enhancement.
+
+<div class="project-image">
+  <img src="img_processing_03.jpg" alt="ImagesProcessingTool">
+</div>
 
 #### Linki
 
-* [Aplikacja na serwerze](http://185.238.72.254:8080/troubleshooting)
-* [Kod projektu](https://github.com/TomaszGerstel/troubleshooting.git)
+* [Działająca aplikacja](https://images.tigerstel.xyz)
+
+* * *
+
+## My-Books
+
+Aplikacja webowa umożliwiająca budowanie własnej biblioteki książek poprzez integrację z Google Books API.
+
+Projekt skupia się na zarządzaniu własną kolekcją, autoryzacji użytkowników oraz integracji z zewnętrznym API.
+
+<div class="project-image">
+  <img src="my_books_01.jpg" alt="MyBooks">
+</div>
+
+#### Technologie
+
+* Aplikacja w części backendowej napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
+* Korzysta z relacyjnej bazy danych **PostgreSQL**;
+* W warstwie frontendowej wykorzystano framework **React**
+* Pozostałe technologie: **Liquibase**, **Docker**, **Gradle**, JWT
+
+#### Funkcjonalności
+
+* logowanie i rejestracja;
+* wyszukiwanie książek przez Google Books API;
+* dodawanie książek do własnej biblioteki;
+* oznaczanie przeczytanych pozycji;
+* paginacja wyników.
+
+<div class="project-image">
+  <img src="my_books_02.jpg" alt="MyBooks">
+</div>
+
+#### Linki
+
+* [Działająca Aplikacja](https://mybooks.tigerstel.xyz/)
+* [Kod projektu](https://github.com/TomaszGerstel/MyBooks.git)
 
 * * *
 
 ## Utility Recorder
 
-Okienkowe narzędzie pomocne w monitorowaniu zużycia mediów, jak np. woda lub prąd (może służyć też do ewidencji innych rzeczy). Zapisuje dane w pliku, wczytuje je do tabeli i oblicza zużycie między rekordami, całkowite, a także średnie. Dane przedstawia na prostym wykresie.
+Desktopowe narzędzie do monitorowania zużycia mediów (np. prąd, woda) z możliwością trwałego zapisu danych, analizy oraz wizualizacji.
 
-![UtilityRecorderToolImage](utility_recorder.jpg)
+<div class="project-image">
+  <img src="utility_recorder.jpg" alt="UtilityRecorder">
+</div>
 
 #### Technologie
 
@@ -258,92 +247,26 @@ Okienkowe narzędzie pomocne w monitorowaniu zużycia mediów, jak np. woda lub 
 
 #### Funkcjonalności
 
-* Tworzenie nowego rekordu, dodawanie wpisów do tabeli, edycja danych;
-* Wyliczenia zużycia, średniej i podgląd danych na wykresie;
-* Trwały zapis danych w pliku;
-* Możliwość edycji danych z poziomu pliku
+* zapis i edycja rekordów;
+* analiza zużycia;
+* wyliczanie średnich;
+* generowanie wykresów.
 
 #### Linki
 
 * [Kod projektu](https://github.com/TomaszGerstel/utility-recorder.git)
-* [Narzędzie do pobrania (jar)](http://185.238.72.254/utility_rec_jar/utility_rec_0.1.jar)
+* [Narzędzie do pobrania (jar)](https://s3-tiger-files-1.s3.us-east-1.amazonaws.com/utility_rec_0.1.jar)
 
-* * *
-
-## Py-Countant
-
-Aplikacja pomocna w zarządzaniu finansami w małej działalności gospodarczej.
-Po wprowadzeniu danych o rzeczywistych transakcjach przeprowadzanych w prowadzonej działalności, 
-narzędzie pozwala ustalić uzyskiwane dochody, podstawę opodatkowania oraz wysokość podatków koniecznych do odprowadzenia, zależną od typu opodatkowania.
-
-![Py-CountantAppImage](py-countant_app.jpg)
-
-#### Technologie
-
-* Aplikacja napisana w języku **Python** z wykorzystaniem technologii **FastAPI**;
-* Korzysta z relacyjnej bazy danych **SQLite**;
-* Pozostałe technologie to: **SQLAlchemy**, **Pydantic**, **Jinja2**
-
-#### Funkcjonalności
-
-* Rejestracja i logowanie użytkownika;
-* Dodawanie i usuwanie rachunków/faktur, a następnie zatwierdzanie na ich podstawie transakcji (wychodzących lub przychodzących);
-* Możliwość zdefiniowania transakcji specjalnej, jak opłata podatków lub wypłata wynagrodzenia;
-* Obliczenia bilansu:
-	* stan finansów;
-	* przychody brutto;
-	* koszta;
-	* bilans netto;
-	* vat;
-	* podatek dochodowy do zapłacenia;
-	* profit zależny od sposobu opodatkowania;
-	* opłacone podatki, podatki pozostałe;
-	* wypłacony profit
-* Wgląd w ostatnie transakcje, wyszukiwanie faktur i transakcji;
-* Generowanie obliczeń dla wybranego zakresu dat;
-* Obliczenia z danego miesiąca lub miesiąca poprzedniego
-
-#### Linki
-
-* [Aplikacja na serwerze](https://pycountant.tigerstel.xyz)
-* [Kod projektu](https://github.com/TomaszGerstel/pycountant-simple.git)
-
-* * *
-
-## Aplikacja monitorowania bilansu energetycznego
-
-Mój projekt zaliczeniowy z kierunku Programowanie Aplikacji Java. Aplikacja jest dziennikiem żywieniowym/podejmowanych aktywności oraz przedstawia obliczenia osobistego bilansu energetycznego. W warstwie widoku wykorzystano szablony.
-
-![MyBalanceAppImage](my_balance_app.jpg)
-
-#### Technologie
-
-* Aplikacja napisana w języku Java z wykorzystaniem frameworku Spring;
-* Korzysta z relacyjnej bazy danych MySQL;
-* W warstwie prezentacji zastosowano szablon widoków Thymeleaf
-
-#### Funkcjonalności
-
-* Logowanie i rejestracja realizowane przy pomocy bazy danych;
-* Możliwość prowadzenia dziennika żywieniowego/aktywności – dodawania i usuwania wpisów;
-* Baza posiłków i aktywności, z której można dodawać pozycje do swojego dziennika;
-* Możliwość uzupełniania bazy o nowe posiłki i aktywności;
-* Obliczenia bilansu dla dowolnego zakresu i jego ocena na podstawie ustalonego zapotrzebowania użytkownika; 
-* Wyliczenie i ocena wskaźnika BMI;
-* Możliwość wglądu i edycji danych użytkownika
-
-#### Linki
-
-* [Działająca Aplikacja MyBalance](http://185.238.72.254:8080/mybalance/)
 
 * * *
 
 ## Gra logiczna: Number puzzle
 
-Prosta gra logiczna, polegająca na przesuwaniu klocków w celu ułożenia ich w 
-odpowiedniej kolejności.
+Prosta gra logiczna, polegająca na przesuwaniu klocków w celu ułożenia ich w odpowiedniej kolejności.
 
-![AndroidCalcAppImage](number_puzzle01.jpg)
+<div class="project-image">
+  <img src="number_puzzle01.jpg" alt="NumberPuzzle">
+</div>
 
 #### Technologie
 
@@ -352,37 +275,37 @@ odpowiedniej kolejności.
 
 #### Funkcjonalności
 
-* Klocki automatycznie się mieszają podczas startu gry;
-* Możliwość zminy ilości klocków (poziomu) oraz resetu stanu gry;
-* Aplikacja zlicza ilość wykonanych ruchów oraz czas gry.
+* klocki automatycznie się mieszają podczas startu gry;
+* możliwość zminy ilości klocków (poziomu) oraz resetu stanu gry;
+* aplikacja zlicza ilość wykonanych ruchów oraz czas gry.
 
 #### Linki
 
-* [Plik exe do pobrania](http://185.238.72.254/number_puzzle/number_puzzle1.0.exe)
+* [Plik exe do pobrania](https://s3-tiger-files-1.s3.us-east-1.amazonaws.com/number_puzzle1.0.exe)
 * [Kod narzędzia](https://github.com/TomaszGerstel/number_puzzle.git)
 
-* * *
 
+
+<br>
 # Więcej o mnie 
+<br>
 
 * Rocznik 1984, zamieszkały w Zielonej Górze.
 
-* W latach 2003 - 2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim, gdzie między innymi nabyłem podstawową wiedzę na temat informatyki i programowania (informatyka ogólna, HTML i języki programowania - głównie Turbo Pascal) oraz zdobyłem przygotowanie pedagogiczne do nauczania techniki i informatyki (praktyki z nauczania informatyki).
+* W latach 2003 - 2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim.
 
-* Posiadam wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn.
+* Wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn.
 
 * Doświadczenie na stanowisku Operator CNC (a także kurs "Obsługa i programowanie obrabiarek sterowanych numerycznie").
 
-* Ostatnie kilka lat (przed podjęciem pracy w IT) to postanowianie zainteresowania się "typowym" programowaniem oraz bardziej "nowoczesnym" językiem (w przeciwieństwie do Pascal’a), jak Java, aby w przyszłości móc zmienić charakter swojej pracy na bardziej niezależny i uniwersalny, niezwiązany bezpośrednio z pracą na produkcji.
+* Lata 2020 - 2022: focus na programowanie oraz projekty niekomercyjne.
 
-* Jeszcze pracując w zakładzie produkcyjnym, postanowiłem z własnej inicjatywy (ponad swoje obowiązki zawodowe) utworzyć narzędzia produkcyjne opisywane powyżej, które pomagają niektórym pracownikom nadzorować produkcję w zakładzie, gdzie byłem zatrudniony do wrzesinia 2022.
-
-* Lata 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu.
+* 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu.
 
 * Obecnie mam dwuletnie doświadczenie (luty 2023 - styczeń 2025) na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiadało profil Java, a w praktyce dotyczyło programowania także w języku Kotlin, oraz obejmowało też pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami. 
 
 * Czerwiec 2025: rozpoczęcie działalności godpodarczej (JDG) i realizacja zleceń związanych z tworzeniem, utrzymaniem 
-i rozbudową projektów głownie w językach Java i Python. Rzeczwisty zakres działąnia obejmuje: backend, frontend i deployment.
+i rozbudową projektów głownie w językach Java i Python. Rzeczwisty zakres działania obejmuje: backend, frontend i deployment.
 
 * Grudzień 2025: zaliczenie testu i zdobycie cenionego certyfikatu Oracle Certified Professional: Java SE 17 Developer.
 
