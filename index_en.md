@@ -113,46 +113,6 @@ A continuously developed educational platform enabling the creation and solving 
 
 * * *
 
-## J-Countant
-
-An application supporting financial management for small businesses. The system enables document tracking, transaction analysis, and automatic calculation of taxes and financial balances.
-
-The project is based on a REST architecture with separate frontend and backend components.
-
-<div class="project-image">
-  <img src="jcountant_01.jpg" alt="JCountant">
-</div>
-
-#### Technologies
-
-* Backend written in **Java** using the **Spring** framework;
-* Uses **PostgreSQL** relational database;
-* Spring components: **Spring Security**, **Spring Web**, **Spring Data**;
-* Additional technologies: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
-* Testing tools: **JUnit**, **Mockito**, **AssertJ**, **Testcontainers**;
-* Deployment technologies: **Git**, **Docker**, **Docker Compose**, **AWS**;
-* Frontend built with **AngularJS**
-
-#### Features
-
-* user authentication and registration;
-* invoice and transaction management;
-* tax and balance calculations;
-* financial analysis over selected date ranges;
-* financial report generation;
-
-<div class="project-image">
-  <img src="jcountant_02.jpg" alt="JCountant">
-</div>
-
-#### Links
-
-* [Live application](http://jcountant.s3-website.eu-west-3.amazonaws.com)
-* [Frontend code](https://github.com/TomaszGerstel/JCountant_front.git)
-* [Backend code](https://github.com/TomaszGerstel/JCountant.git)
-
-* * *
-
 ## AI Image Processing Platform
 
 A batch image processing platform powered by AI, designed to automate product, catalog, and marketplace image editing.
@@ -192,6 +152,46 @@ The application enables simultaneous processing of multiple images using operati
 #### Links
 
 * [Live application](https://images.tigerstel.xyz)
+
+* * *
+
+## J-Countant
+
+An application supporting financial management for small businesses. The system enables document tracking, transaction analysis, and automatic calculation of taxes and financial balances.
+
+The project is based on a REST architecture with separate frontend and backend components.
+
+<div class="project-image">
+  <img src="jcountant_01.jpg" alt="JCountant">
+</div>
+
+#### Technologies
+
+* Backend written in **Java** using the **Spring** framework;
+* Uses **PostgreSQL** relational database;
+* Spring components: **Spring Security**, **Spring Web**, **Spring Data**;
+* Additional technologies: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
+* Testing tools: **JUnit**, **Mockito**, **AssertJ**, **Testcontainers**;
+* Deployment technologies: **Git**, **Docker**, **Docker Compose**, **AWS**;
+* Frontend built with **AngularJS**
+
+#### Features
+
+* user authentication and registration;
+* invoice and transaction management;
+* tax and balance calculations;
+* financial analysis over selected date ranges;
+* financial report generation;
+
+<div class="project-image">
+  <img src="jcountant_02.jpg" alt="JCountant">
+</div>
+
+#### Links
+
+* [Live application](http://jcountant.s3-website.eu-west-3.amazonaws.com)
+* [Frontend code](https://github.com/TomaszGerstel/JCountant_front.git)
+* [Backend code](https://github.com/TomaszGerstel/JCountant.git)
 
 * * *
 
@@ -299,7 +299,7 @@ A simple logic game where blocks are moved to arrange them in the correct order.
 
 * 2020/2021 Postgraduate Studies: Java Application Programming, WSB University in Wrocław.
 
-* Currently: 2 years of experience (Feb 2023 – Jan 2025) as a Junior Software Developer in a financial company. Role focused on Java, also involving Kotlin and frontend work with Angular and related technologies.
+* Feb 2023 – Jan 2025 job as a Junior Software Developer in a financial company. Role focused on Java, also involving Kotlin and frontend work with Angular and related technologies.
 
 * June 2025: started freelance business (sole proprietorship) delivering development, maintenance, and extension of projects mainly in Java and Python. Scope includes backend, frontend, and deployment.
 

@@ -5,10 +5,9 @@ layout: default
 ## Krótko o mnie
 Jestem programistą Java z doświadczeniem komercyjnym w tworzeniu i rozwijaniu aplikacji webowych. 
 Specjalizuję się głównie w backendzie opartym o Spring Framework, ale pracuję również fullstackowo,
-wykorzystując Angular (oraz inne technologie frontendowe), a także w dużym stopniu ostatnio Python.
+wykorzystując Angular (oraz inne technologie frontendowe), a także w dużym stopniu Python w ostatnim czasie.
 
-Posiadam 2 lata doświadczenia komercyjnego jako Software Developer w branży finansowej oraz obecnie realizuję projekty w modelu freelance,
-obejmujące rozwój, utrzymanie i wdrażanie aplikacji webowych.
+Posiadam 2 lata doświadczenia komercyjnego jako Software Developer w branży finansowej oraz obecnie (od czerwca 2025) realizuję projekty w modelu freelance, obejmujące rozwój, utrzymanie i wdrażanie aplikacji webowych.
 
 Na co dzień pracuję z Java, Spring Boot, Python, SQL, Dockerem oraz technologiami frontendowymi. 
 Dodatkowo rozwijam własne projekty, w których eksperymentuję z&nbsp;Pythonem, AI oraz automatyzacją przetwarzania danych i obrazów.
@@ -114,46 +113,6 @@ Rozwijana platforma edukacyjna umożliwiająca tworzenie oraz rozwiązywanie qui
 
 * * *
 
-## J-Countant
-
-Aplikacja wspierająca zarządzanie finansami w małej działalności gospodarczej. System umożliwia ewidencję dokumentów, analizę transakcji oraz automatyczne wyliczanie podatków i bilansów finansowych.
-
-Projekt oparty o architekturę REST z oddzielnym frontendem i backendem.
-
-<div class="project-image">
-  <img src="jcountant_01.jpg" alt="JCountant">
-</div>
-
-#### Technologie
-
-* Część 'backendowa' aplikacji napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
-* Korzysta z relacyjnej bazy danych **PostgreSQL**;
-* Wykorzystane komponenty Spring: **Spring Security**, **Spring Web**, **Spring Data**;
-* Pozostałe technologie to: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
-* Narzędzia wykorzystane w testowaniu aplikacji: **JUnit**, **Mockito**, **AssertJ**, **Testcontainers**;
-* Technologie, których użyto do wdrażania aplikacji: **Git**, **Docker**, **Docker Compose**, **AWS**;
-* Część 'front-endowa' zrealizowana przy pomocy frameworku **AngularJS**
-
-#### Funkcjonalności
-
-* logowanie i rejestracja użytkowników;
-* zarządzanie fakturami i transakcjami;
-* wyliczanie podatków i bilansu;
-* analiza finansowa dla zakresów dat;
-* generowanie raportów finansowych.
-
-<div class="project-image">
-  <img src="jcountant_02.jpg" alt="JCountant">
-</div>
-
-#### Linki
-
-* [Działająca aplikacja](http://jcountant.s3-website.eu-west-3.amazonaws.com)
-* [Kod projektu - front](https://github.com/TomaszGerstel/JCountant_front.git)
-* [Kod projektu - back](https://github.com/TomaszGerstel/JCountant.git)
-
-* * *
-
 ## AI Image Processing Platform
 
 Platforma do wsadowego przetwarzania obrazów z wykorzystaniem AI, stworzona do automatyzacji obróbki zdjęć produktowych, katalogowych oraz marketplace’owych.
@@ -193,6 +152,46 @@ Aplikacja umożliwia jednoczesne przetwarzanie wielu obrazów poprzez operacje t
 #### Linki
 
 * [Działająca aplikacja](https://images.tigerstel.xyz)
+
+* * *
+
+## J-Countant
+
+Aplikacja wspierająca zarządzanie finansami w małej działalności gospodarczej. System umożliwia ewidencję dokumentów, analizę transakcji oraz automatyczne wyliczanie podatków i bilansów finansowych.
+
+Projekt oparty o architekturę REST z oddzielnym frontendem i backendem.
+
+<div class="project-image">
+  <img src="jcountant_01.jpg" alt="JCountant">
+</div>
+
+#### Technologie
+
+* Część 'backendowa' aplikacji napisana w języku **Java** z wykorzystaniem frameworku **Spring**;
+* Korzysta z relacyjnej bazy danych **PostgreSQL**;
+* Wykorzystane komponenty Spring: **Spring Security**, **Spring Web**, **Spring Data**;
+* Pozostałe technologie to: **JPA**, **Hibernate**, **Liquibase**, **Hibernate Validator**;
+* Narzędzia wykorzystane w testowaniu aplikacji: **JUnit**, **Mockito**, **AssertJ**, **Testcontainers**;
+* Technologie, których użyto do wdrażania aplikacji: **Git**, **Docker**, **Docker Compose**, **AWS**;
+* Część 'front-endowa' zrealizowana przy pomocy frameworku **AngularJS**
+
+#### Funkcjonalności
+
+* logowanie i rejestracja użytkowników;
+* zarządzanie fakturami i transakcjami;
+* wyliczanie podatków i bilansu;
+* analiza finansowa dla zakresów dat;
+* generowanie raportów finansowych.
+
+<div class="project-image">
+  <img src="jcountant_02.jpg" alt="JCountant">
+</div>
+
+#### Linki
+
+* [Działająca aplikacja](http://jcountant.s3-website.eu-west-3.amazonaws.com)
+* [Kod projektu - front](https://github.com/TomaszGerstel/JCountant_front.git)
+* [Kod projektu - back](https://github.com/TomaszGerstel/JCountant.git)
 
 * * *
 
@@ -292,7 +291,7 @@ Prosta gra logiczna, polegająca na przesuwaniu klocków w celu ułożenia ich w
 
 * Rocznik 1984, zamieszkały w Zielonej Górze.
 
-* W latach 2003 - 2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim.
+* Lata 2003 - 2008 studia: Edukacja Techniczno-Informatyczna na Uniwersytecie Zielonogórskim.
 
 * Wieloletnie doświadczenie w pracy na produkcji w charakterze nadzoru produkcji, ustawiania procesu i naprawy maszyn.
 
@@ -302,7 +301,7 @@ Prosta gra logiczna, polegająca na przesuwaniu klocków w celu ułożenia ich w
 
 * 2020/2021 Studia Podyplomowe: Programowanie aplikacji Java, Wyższa Szkoła Bankowa we Wrocławiu.
 
-* Obecnie mam dwuletnie doświadczenie (luty 2023 - styczeń 2025) na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiadało profil Java, a w praktyce dotyczyło programowania także w języku Kotlin, oraz obejmowało też pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami. 
+* Luty 2023 - styczeń 2025 praca na stanowisku Junior Software Developer w firmie z branży finansowej. Obejmowane stanowisko posiadało profil Java, a w praktyce dotyczyło programowania także w języku Kotlin, oraz obejmowało też pracę 'frontendową' z frameworkiem Angular i kilkoma innymi technologiami. 
 
 * Czerwiec 2025: rozpoczęcie działalności godpodarczej (JDG) i realizacja zleceń związanych z tworzeniem, utrzymaniem 
 i rozbudową projektów głownie w językach Java i Python. Rzeczwisty zakres działania obejmuje: backend, frontend i deployment.
